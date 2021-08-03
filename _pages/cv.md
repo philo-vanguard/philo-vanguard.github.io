@@ -13,21 +13,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, 2020
-  * [University of Texas at Austin](http://www.cs.utexas.edu/)
-  * Advisor: [Dr. Keshav Pingali](http://www.cs.utexas.edu/~pingali/)
+* Ph.D. in Computer Science, 2020~
+  * [Beihang University](http://www.cs.utexas.edu/)
+  * Advisor: [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)
   * Dissertation: [Compiler and Runtime Systems for Homomorphic Encryption and Graph Processing on Distributed and Heterogeneous Architectures](https://roshandathathri.github.io/phddissertation/)
   * Courses: Prediction Mechanisms in Computer Architecture, Distributed Computing, Dynamic Compilation, Automated Verification, Automated Logical Reasoning, Programming Languages, Linear Algebra
-  * CGPA: 3.67/4.0
-* M.Sc. (Engg.) in Computer Science and Engineering, 2014
-  * [Indian Institute of Science](http://www.csa.iisc.ernet.in/)
-  * Advisor: [Dr. Uday Bondhugula](http://drona.csa.iisc.ernet.in/~uday/)
+* M.Sc. (Engg.) in Software Engineering, 2020
+  * [Yunnan University](http://www.csa.iisc.ernet.in/)
+  * Advisor: [Prof. Zhou Wei](http://drona.csa.iisc.ernet.in/~uday/)
   * Thesis: [Compiling for a Dataflow Runtime on Distributed-Memory Parallel Architectures](https://roshandathathri.github.io/msthesis/)
   * Courses: Compiler Design, Advanced Techniques in Compilers and Parallelization for Parallel Architectures, Computer Architecture, Design and Analysis of Algorithms
-  * CGPA: 7.75/8.0
-* B.E. in Information Science and Engineering, 2008
-  * [B. M. S. College of Engineering](http://www.bmsce.in/)
-  * Aggregate: 74%
+* B.E. in Information Science and Engineering, 2016
+  * [Guilin University Of Electronic Technology](http://www.bmsce.in/)
   
 Professional Experience
 ======
