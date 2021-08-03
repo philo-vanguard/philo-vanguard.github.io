@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Xiaoke Zhu"
-  avatar           : "profile.jpg"
+  avatar           : "photo-life2.JPG"
   bio              : "PhD student in Computer Science"
   location         : "Beijing, China"
   employer         : "SICS"
-  googlescholar    : "https://scholar.google.com/citations?user=qTJqyyIAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Zu3XLB8AAAAJ"
   email            : "zhuxk@buaa.edu.cn"
   uri              :
   bitbucket        :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-5701-5279"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : https://twitter.com/roshan18
+  twitter          : 
   vine             :
   weibo            :
   xing             :
