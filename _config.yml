@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Roshan Dathathri"
+title                    : "Xiaoke Zhu"
 title_separator          : "-"
-name                     : &name "Roshan Dathathri"
-description              : &description "PhD student in Computer Science at the University of Texas, Austin"
-url                      : https://roshandathathri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xiaoke Zhu"
+description              : &description "PhD student in Computer Science at Beihang University, Beijing"
+url                      : https://hsiaoko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "roshandathathri.github.io"
+repository               : "hsiaoko.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Roshan Dathathri"
+  name             : "Xiaoke Zhu"
   avatar           : "profile.jpg"
-  bio              : "Researcher in Computer Science"
-  location         : "Austin, Texas"
-  employer         : "Katana Graph"
+  bio              : "PhD student in Computer Science"
+  location         : "Beijing, China"
+  employer         : "SICS"
   googlescholar    : "https://scholar.google.com/citations?user=qTJqyyIAAAAJ&hl=en"
-  email            : "roshan (at) katanagraph.com"
+  email            : "zhuxk@buaa.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "roshandathathri"
+  github           : "hsiaoko"
   google_plus      :
   keybase          :
   instagram        :
