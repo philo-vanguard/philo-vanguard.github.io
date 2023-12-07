@@ -3,7 +3,7 @@ title: "MiniGraph: Querying Big Graphs with a Single Machine"
 collection: publications
 permalink: /publication/2023-05-MiniGraph
 date: MAY 1, 2023
-venue: 'Proceedings of the VLDB Endowment (VLDB 2023)'
+venue: 'Proceedings of the VLDB Endowment'
 paperurl: ''
 citation: 'Zhu, X., Liu, Y., Liu, S., & Fan, W. (2023). MiniGraph: Querying Big Graphs with a Single Machine. Proceedings of the VLDB Endowment, 16(9), 2172-2185.'
 ---
