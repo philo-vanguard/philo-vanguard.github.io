@@ -14,14 +14,14 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, 2020~
-  * [Beihang University](http://www.cs.utexas.edu/)
+  * [Beihang University](https://ev.buaa.edu.cn/)
   * Advisor: [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)
-  * Dissertation: [Compiler and Runtime Systems for Homomorphic Encryption and Graph Processing on Distributed and Heterogeneous Architectures](https://roshandathathri.github.io/phddissertation/)
-  * Courses: Prediction Mechanisms in Computer Architecture, Distributed Computing, Dynamic Compilation, Automated Verification, Automated Logical Reasoning, Programming Languages, Linear Algebra
+  * Dissertation: [Compiler and Runtime Systems and Graph Processing on Single Machine](https://roshandathathri.github.io/phddissertation/)
+  * Courses: Distributed Computing, Dynamic Compilation, Automated Verification, Automated Logical Reasoning, Programming Languages, Linear Algebra
 * M.Sc. (Engg.) in Software Engineering, 2020
   * [Yunnan University](http://www.csa.iisc.ernet.in/)
   * Advisor: [Prof. Zhou Wei](http://drona.csa.iisc.ernet.in/~uday/)
-  * Thesis: [Compiling for a Dataflow Runtime on Distributed-Memory Parallel Architectures](https://roshandathathri.github.io/msthesis/)
+  <!-- * Thesis: [Compiling for a Dataflow Runtime on Distributed-Memory Parallel Architectures](https://roshandathathri.github.io/msthesis/)-->
   * Courses: Compiler Design, Advanced Techniques in Compilers and Parallelization for Parallel Architectures, Computer Architecture, Design and Analysis of Algorithms
 * B.E. in Information Science and Engineering, 2016
   * [Guilin University Of Electronic Technology](http://www.bmsce.in/)
