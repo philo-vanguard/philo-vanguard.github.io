@@ -11,10 +11,10 @@ redirect_from:
 
 I am a Phd candidate at [Beihang University](https://ev.buaa.edu.cn/), supervised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/).
 
-I received my masters from the 
+I received my master from the 
 [Yunnan University](http://english.ynu.edu.cn/), where I was advised by 
-[Prof. Wei Zhou](http://drona.csa.iisc.ernet.in/~uday/),
-[Prof. Shaowen Yao](http://drona.csa.iisc.ernet.in/~uday/).
+[Prof. Wei Zhou](http://www.sei.ynu.edu.cn/info/1023/1106.htm),
+[Prof. Shaowen Yao](http://www.sei.ynu.edu.cn/info/1023/1397.htm).
 
 During 2021 - 2024, I was a research intern in 
 [Shenzhen Institute of Computing Science](https://en.sics.ac.cn), 
