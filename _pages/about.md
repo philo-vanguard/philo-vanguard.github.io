@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "General"
 excerpt: "Homepage"
 author_profile: true
 redirect_from: 
@@ -9,29 +9,21 @@ redirect_from:
   - /~roshan/
 ---
 
-I am a Phd candidate at [Beihang University](https://ev.buaa.edu.cn/), supervised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/).
+Xiaoke Zhu is currently a Phd candidate at [Beihang University](https://ev.buaa.edu.cn/), supervised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/). He received his master degree at [Yunnan University](http://english.ynu.edu.cn/) in 2020.
 
-I received my master from the 
-[Yunnan University](http://english.ynu.edu.cn/), where I was advised by 
-[Prof. Wei Zhou](http://www.sei.ynu.edu.cn/info/1023/1106.htm),
-[Prof. Shaowen Yao](http://www.sei.ynu.edu.cn/info/1023/1397.htm).
-
-During 2021 - 2024, I was a research intern in 
-[Shenzhen Institute of Computing Science](https://en.sics.ac.cn), 
-where I collaborated with several researchers including 
-[Dr. Shuhao Liu](https://shuhaoliu.github.io), and
-[Dr. Min Xie](https://en.sics.ac.cn/en/col130/337).
+post-doctoral fellow at the Department of Computer Science and Engineering (CSE), The Hong Kong University of Science and Technology (HKUST). He received his PhD degree from School of Information Technology and Electrical Engineering (ITEE) at The University of Queensland (UQ) under the advision of Prof. Xiaofang Zhou, Dr. Junhao Gan, and Dr. Wen Hua in 2022.  He received his bachelor degree at Tshinghua University in 2015.
 
 # Research Interests
 
 My research interests are broadly in the field of 
-**database systems**, **graph computing** and **data quality**
+**graph systems**, **parallel computing** and **data cleaning**
 with an emphasis on optimizing runtime systems under 
 *single machine* and *heterogeneous* architectures. 
 Currently, my focus is on building 
-large-scale graph databases and systems by leveraging modern hardware and heterogeneous architectures. 
+large-scale graph systems by leveraging modern hardware such as GPU. 
 
 
+<!-- 
 **Data Quality**:
 Data quality has always been a key concern in relational and graph databases. High-quality data can greatly improve the accuracy of data analysis, data mining, recommendation systems, and machine learning. On the one hand, existing methods usually mine rules and ask users to confirm them to detect and repair data. There are two problems to be solved: (1) Rule mining/conducting is a complex process. (2) Existing rule mining methods often return a large number of rules, and it is difficult for users to find useful rules for business. On the other hand, entity resolution, as a key technology of data integration, can fuse the same data entity from different data sources to eliminate data redundancy and ensure data quality. However, due to the shortcomings of current entity resolution technology (unable to achieve 100% accuracy), different data entities are easily merged together incorrectly. How to effectively identify and separate these misfused data entities, deduce and complete their correct attribute information has not been paid attention and studied by the industry for the time being. 
 Based on the above problems, I mainly study how to use efficient methods to mine/conduct rules on massive data to ensure that the recall rate remains at a high level with certain theoretical guarantees. Parallel and scalable  algorithm was proposed to deal with massive data.
@@ -43,10 +35,11 @@ The analysis and processing of large-scale graph data requires a large amount of
 
 [[VLDB 2023](https://shuhaoliu.github.io/assets/papers/minigraph-full.pdf)]
 
+-->
 
 # News
 
-* Our [HyperBlocker: Accelerating Rule-based Blocking in Entity Resolution using GPUs](https://shuhaoliu.github.io/assets/papers/minigraph-full.pdf) paper was accepted to **ICDE 2024**.
-* Our [MiniGraph: Querying Big Graphs with a Single Machine](https://shuhaoliu.github.io/assets/papers/minigraph-full.pdf) paper was accepted to **VLDB 2023**.
-* Our [Deep and Collective Entity Resolution in Parallel](https://drive.google.com/file/u/0/d/1PpBGov7mavn_xqb21zU7Quo3NnZX78i1/view) paper was accepted to **ICDE 2022**.
-* Our [DLB: Deep Learning Based Load Balancing](https://drive.google.com/file/u/0/d 1PpBGov7mavn_xqb21zU7Quo3NnZX78i1/view) paper was accepted to **CLOUD 2021**.
+* (2024/02) Our [HyperBlocker: Accelerating Rule-based Blocking in Entity Resolution using GPUs](https://shuhaoliu.github.io/assets/papers/minigraph-full.pdf) paper was accepted to **ICDE 2024**.
+* (2023/04) Our [MiniGraph: Querying Big Graphs with a Single Machine](https://shuhaoliu.github.io/assets/papers/minigraph-full.pdf) paper was accepted to **VLDB 2023**.
+* (2022/02) Our [Deep and Collective Entity Resolution in Parallel](https://drive.google.com/file/u/0/d/1PpBGov7mavn_xqb21zU7Quo3NnZX78i1/view) paper was accepted to **ICDE 2022**.
+* (2021/09) Our [DLB: Deep Learning Based Load Balancing](https://drive.google.com/file/u/0/d 1PpBGov7mavn_xqb21zU7Quo3NnZX78i1/view) paper was accepted to **CLOUD 2021**.
