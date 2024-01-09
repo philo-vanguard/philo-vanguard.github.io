@@ -11,7 +11,6 @@ redirect_from:
 
 Xiaoke Zhu is currently a Phd candidate at [Beihang University](https://ev.buaa.edu.cn/), supervised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/). He received his master degree at [Yunnan University](http://english.ynu.edu.cn/) in 2020.
 
-post-doctoral fellow at the Department of Computer Science and Engineering (CSE), The Hong Kong University of Science and Technology (HKUST). He received his PhD degree from School of Information Technology and Electrical Engineering (ITEE) at The University of Queensland (UQ) under the advision of Prof. Xiaofang Zhou, Dr. Junhao Gan, and Dr. Wen Hua in 2022.  He received his bachelor degree at Tshinghua University in 2015.
 
 # Research Interests
 
