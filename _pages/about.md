@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "General"
+title: "Welcom to Xiaoke Zhu's Homepage"
 excerpt: "Homepage"
 author_profile: true
 redirect_from: 
