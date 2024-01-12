@@ -8,8 +8,8 @@ paperurl: ''
 citation: 'Zhu, X., Liu, Y., Liu, S., & Fan, W. (2023). MiniGraph: Querying Big Graphs with a Single Machine. Proceedings of the VLDB Endowment, 16(9), 2172-2185.'
 ---
 
-[(Download publication here)](https://shuhaoliu.github.io/assets/papers/minigraph-full.pdf)
-[(Download slides here)]()
+[(Download publication here)](https://github.com/hsiaoko/hsiaoko.github.io/blob/master/files/paper/MiniGraph_full_paper.pdf)
+[(Download slides here)](https://github.com/hsiaoko/hsiaoko.github.io/blob/master/files/slides/MiniGraph_VLDB2023.pdf)
 [(Download source code here)](https://github.com/SICS-Fundamental-Research-Center/MiniGraph)
 
 ### Abstract
