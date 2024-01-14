@@ -86,8 +86,8 @@ Teaching Assistant
 
 Technical Skills
 ======
-* Programming: C, C++, CUDA, MPI, Python, Torch
-* Applications: Docker, Spark, Hadoop, Git, Latex
+* Programming: C, C++, CUDA, MPI, Python, Spark, Hadoop, Git
+* Tools: Docker, Hadoop, Torch, Latex
 
 <!-- Hobbies
 ======

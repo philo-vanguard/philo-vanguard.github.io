@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-In publications marked with **, authors are ordered alphabetically. In the other publications, authors are ordered by contribution.
+In publications marked with **, authors are ordered alphabetically.
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=Zu3XLB8AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
