@@ -28,6 +28,12 @@ large-scale graph systems by leveraging modern hardware such as GPU.
 * (2021/09) I joined [Shenzhen Institute of Computing Science](https://en.sics.ac.cn) (SICS) as a research intern.
 * (2021/07) Our [DLB: Deep Learning Based Load Balancing](https://arxiv.org/pdf/1910.08494.pdf) paper was accepted to **CLOUD 2021**.
 
+# Talks
+* "MiniGraph: Querying Big Graphs with a Single Machine"
+  * Great Bay Area Digital Tech Workshop, June 2023
+  * VLDB conference, September 2023
+* "DLB: Deep Learning Based Load Balancing"
+  * IEEE CLOUD conference, September 2021
 
 <!--
 # Professional Service
