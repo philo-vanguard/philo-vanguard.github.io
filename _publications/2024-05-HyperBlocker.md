@@ -7,7 +7,7 @@ venue: 'TO ADD'
 paperurl: ''
 citation: ''
 ---
-[(Download publication here)](https://hsiaoko.github.io/files/paper/MiniGraph_full_paper.pdf)
+[(Download publication here)](https://hsiaoko.github.io/files/paper/HyperBlocker_full_paper.pdf)
 [(Download slides here)]()
 [(Download source code here)](https://github.com/SICS-Fundamental-Research-Center/HyperBlocker)
 
