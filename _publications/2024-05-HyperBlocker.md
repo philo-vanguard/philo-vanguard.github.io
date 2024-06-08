@@ -3,11 +3,11 @@ title: "HyperBlocker: Accelerating Rule-based Blocking in Entity Resolution usin
 collection: publications
 permalink: /publication/2024-05-HyperBlocker
 date: MAY 1, 2024
-venue: 'IEEE 40th International Conference on Data Engineering (ICDE)'
+venue: 'TO ADD'
 paperurl: ''
 citation: ''
 ---
-[(Download publication here)]()
+[(Download publication here)](https://hsiaoko.github.io/files/paper/MiniGraph_full_paper.pdf)
 [(Download slides here)]()
 [(Download source code here)](https://github.com/SICS-Fundamental-Research-Center/HyperBlocker)
 
