@@ -1,4 +1,4 @@
----
+![image](https://github.com/philo-vanguard/philo-vanguard.github.io/assets/36916600/3f28c3b0-ebda-47c0-91d3-19c3710b80cb)---
 permalink: /
 title: ""
 author_profile: true
@@ -17,6 +17,7 @@ Education
 2014-2018&#8195; Xidian University (XDU)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Undergraduate in Computer Science  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; GPA 3.74/4, ranked 3/175 (1.7%) in Computer Science Class
+<br>
 
 Research Interests
 =======
@@ -25,7 +26,7 @@ My research interests include data quality, data cleaning, rule discovery, and o
 <font color=red>
   I am looking for a postdoctoral position. If you are interested, please contact me.  
 </font>
-
+<br>
 
 Publications
 =======
@@ -36,6 +37,7 @@ Publications
 0. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. 2022. [Parallel Rule Discovery from Large Datasets by Sampling](https://web.archive.org/web/20220616181024id_/https://dl.acm.org/doi/pdf/10.1145/3514221.3526165). In SIGMOD. ACM.  
 0. Ting Deng, Lei Hou, and **Ziyan Han**. 2020. [Keys as features for graph entity matching](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b974/290300b974.pdf). In ICDE. IEEE.  
 {: reversed="reversed"}
+<br>
 
 Awards
 =======
@@ -57,12 +59,13 @@ Awards
 &#8195;&#8195; The Special Scholarship, XDU, 2017 (3000 RMB)  
 &#8195;&#8195; The Second Prize Scholarship, XDU, 2015 (1000 RMB)  
 &#8195;&#8195; The Second Prize Scholarship, XDU, 2014 (1000 RMB)  
-
+<br>
 
 INTERNSHIP EXPERIENCE
 =======
 Internship at Shenzhen Institute of Computing Sciences (Mar. 2021 - now)
+<br>
 
 WeChat QR Code
 =======
-<img src="https://github.com/philo-vanguard/ZiyanHan.github.io/blob/master/images/Wechat.png" width = "100" height = "100" div align=left />
+<img src="https://github.com/philo-vanguard/ZiyanHan.github.io/blob/master/images/Wechat.pdf" width = "100" height = "100" div align=left />
