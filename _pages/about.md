@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Xiaoke Zhu is currently a Phd candidate at [Beihang University](https://ev.buaa.edu.cn/) (BUAA), supervised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/). He received his master degree at [Yunnan University](http://english.ynu.edu.cn/) (YNU) in 2020.
+Xiaoke Zhu,  pronounced as "Hsiǎo K‘o Chū" in Wade-Giles romanization, is currently a Phd candidate at [Beihang University](https://ev.buaa.edu.cn/) (BUAA), supervised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/). He received his master degree at [Yunnan University](http://english.ynu.edu.cn/) (YNU) in 2020.
 
 
 <font color=red>
