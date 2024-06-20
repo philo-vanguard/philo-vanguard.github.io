@@ -11,7 +11,7 @@ redirect_from:
 Education
 =======
 2018-2024&#8195; Beihang University (BUAA)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; PhD in Computer Science, supervised by Prof. Wenfei Fan  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; PhD in Computer Science, supervised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; GPA 3.76/4, ranked 11/91 (12%) in Computer Science Class
 
 2014-2018&#8195; Xidian University (XDU)  
