@@ -10,7 +10,10 @@ redirect_from:
 
 Xiaoke Zhu is currently a Phd candidate at [Beihang University](https://ev.buaa.edu.cn/) (BUAA), supervised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/). He received his master degree at [Yunnan University](http://english.ynu.edu.cn/) (YNU) in 2020.
 
-I am looking for a postdoctoral position. If you are interested, please contact me.
+
+<font color=red>
+  I am looking for a postdoctoral position. If you are interested, please contact me.  
+</font>
 
 # Research Interests
 My research interests are broadly in the field of 
