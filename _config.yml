@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ziyan Han / Personal Homepage"
+title                    : "Ziyan Han/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Ziyan Han"
 description              : &description "a PhD student from Beihang University"
