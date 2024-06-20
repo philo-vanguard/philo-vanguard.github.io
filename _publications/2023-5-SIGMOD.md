@@ -1,5 +1,5 @@
 ---
-title: "Discovering Top-k Rules using Subjective and Objective Criteria"
+title: "**Discovering Top-k Rules using Subjective and Objective Criteria"
 collection: publications
 permalink: /publication/2023-5-SIGMOD
 date: May, 2023
