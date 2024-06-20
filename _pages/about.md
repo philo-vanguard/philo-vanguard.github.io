@@ -1,4 +1,4 @@
-![image](https://github.com/philo-vanguard/philo-vanguard.github.io/assets/36916600/3f28c3b0-ebda-47c0-91d3-19c3710b80cb)---
+---
 permalink: /
 title: ""
 author_profile: true
@@ -68,4 +68,5 @@ Internship at Shenzhen Institute of Computing Sciences (Mar. 2021 - now)
 
 WeChat QR Code
 =======
-<img src="https://github.com/philo-vanguard/ZiyanHan.github.io/blob/master/images/Wechat.pdf" width = "100" height = "100" div align=left />
+![Wechat](https://github.com/philo-vanguard/philo-vanguard.github.io/assets/36916600/04082246-1afc-40c3-a69e-1332c2ecc9ae)
+
