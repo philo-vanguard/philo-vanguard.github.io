@@ -23,7 +23,7 @@ Research Interests
 My research interests include data quality, data cleaning, rule discovery, and other areas of combining DB and AI.
 
 <font color=red>
-  I am looking for a postdoctoral position. If you are interested, please contact me.
+  I am looking for a postdoctoral position. If you are interested, please contact me.  
 </font>
 
 
