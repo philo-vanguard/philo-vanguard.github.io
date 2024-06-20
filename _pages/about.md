@@ -30,7 +30,7 @@ My research interests include data quality, data cleaning, rule discovery, and o
 
 Publications
 =======
-(*Note: In papers 2-5, all authors contribute equally, sorted by alphabetic order*.)  
+(*Note: In papers 2-5, all authors contributed equally, sorted by alphabetic order*.)  
 0. Wenfei Fan, **Ziyan Han**, Min Xie, and Guangyi Zhang. 2025. [Discovering Top-k Relevant and Diversified Rules](https://to_be_fiiled). In SIGMOD. ACM.  
 0. Wenfei Fan, **Ziyan Han**, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. 2024. [Splitting Tuples of Mismatched Entities](https://dl.acm.org/doi/10.1145/3626763). In SIGMOD. ACM.  
 0. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. 2023. [Discovering Top-k Rules using Subjective and Objective Criteria](https://dl.acm.org/doi/abs/10.1145/3588924). In SIGMOD. ACM.  
