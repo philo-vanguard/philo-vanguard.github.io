@@ -54,4 +54,4 @@ Internship at Shenzhen Institute of Computing Sciences (Mar. 2021 - now)
 
 WeChat QR Code
 =======
-![image](https://github.com/philo-vanguard/ZiyanHan.github.io/blob/master/files/Wechat.jpg)
+<img src="https://github.com/philo-vanguard/ZiyanHan.github.io/blob/master/files/Wechat.pdf" width = "100" height = "100" div align=left />
