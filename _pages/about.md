@@ -1,5 +1,5 @@
 Education
-======
+=======
 2018-2024&#8195; Beihang University (BUAA)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; PhD in Computer Science, supervised by Prof. Wenfei Fan  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; GPA 3.76/4, ranked 11/91 (12%) in Computer Science Class
@@ -9,7 +9,7 @@ Education
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195; GPA 3.74/4, ranked 3/175 (1.7%) in Computer Science Class
 
 Research Interests
-======
+=======
 My research interests include data quality, data cleaning, rule discovery, and other areas of combining DB and AI.
 
 <font color=red>
@@ -18,7 +18,7 @@ My research interests include data quality, data cleaning, rule discovery, and o
 
 
 Publications
-======
+=======
 (*Note: In papers 2-5, all authors contribute equally, sorted by alphabetic order*.)  
 5. Wenfei Fan, **Ziyan Han**, Min Xie, and Guangyi Zhang. 2025. [Discovering Top-k Relevant and Diversified Rules](https://to_be_fiiled). In SIGMOD. ACM.  
 4. Wenfei Fan, **Ziyan Han**, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. 2024. [Splitting Tuples of Mismatched Entities](https://dl.acm.org/doi/10.1145/3626763). In SIGMOD. ACM.  
@@ -27,7 +27,7 @@ Publications
 1. Ting Deng, Lei Hou, and **Ziyan Han**. 2020. [Keys as features for graph entity matching](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b974/290300b974.pdf). In ICDE. IEEE.
 
 Awards
-======
+=======
 2018 – 2024  
 &#8195;&#8195; SIMGOD 2024 Student Support Scholarship, 2024 (800 USD)  
 &#8195;&#8195; SIGMOD 2023 Student Travel Award, 2023 (1000 USD)  
@@ -49,5 +49,9 @@ Awards
 
 
 INTERNSHIP EXPERIENCE
-======
+=======
 Internship at Shenzhen Institute of Computing Sciences (Mar. 2021 - now)
+
+WeChat QR Code
+=======
+![image](https://github.com/philo-vanguard/ZiyanHan.github.io/blob/master/files/Wechat.jpg)
