@@ -13,7 +13,7 @@ redirect_from:
 [Download CV in PDF format here](https://www.cs.utexas.edu/~roshan/cv.pdf)
 -->
 
-Education
+Ta
 ======
 * Ph.D. in Computer Science, 2020~
   * [Beihang University](https://ev.buaa.edu.cn/)

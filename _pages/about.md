@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcom to Xiaoke Zhu's Homepage"
+title: "Welcome to Xiaoke Zhu's Homepage"
 excerpt: "Homepage"
 author_profile: true
 redirect_from: 
@@ -10,6 +10,7 @@ redirect_from:
 
 Xiaoke Zhu is currently a Phd candidate at [Beihang University](https://ev.buaa.edu.cn/) (BUAA), supervised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/). He received his master degree at [Yunnan University](http://english.ynu.edu.cn/) (YNU) in 2020.
 
+I am looking for a postdoctoral position. If you are interested, please contact me.
 
 # Research Interests
 My research interests are broadly in the field of 
