@@ -42,7 +42,7 @@ Publications
 Awards
 =======
 2018 – 2024  
-&#8195;&#8195; SIMGOD 2024 Student Support Scholarship, 2024 (800 USD)  
+&#8195;&#8195; SIGMOD 2024 Student Support Scholarship, 2024 (800 USD)  
 &#8195;&#8195; SIGMOD 2023 Student Travel Award, 2023 (1000 USD)  
 &#8195;&#8195; Outstanding Freshman Scholarship, BUAA, 2018 (30000 RMB)  
 &#8195;&#8195; Outstanding Graduate Students Award, BUAA, 2020  
@@ -68,5 +68,4 @@ Internship at Shenzhen Institute of Computing Sciences (Mar. 2021 - now)
 
 WeChat QR Code
 =======
-![Wechat](https://github.com/philo-vanguard/philo-vanguard.github.io/assets/36916600/04082246-1afc-40c3-a69e-1332c2ecc9ae)
-
+<img src="[https://github.com/philo-vanguard/ZiyanHan.github.io/blob/master/images/Wechat.pdf](https://github.com/philo-vanguard/philo-vanguard.github.io/assets/36916600/04082246-1afc-40c3-a69e-1332c2ecc9ae)" width = "100" height = "100" div align=left />
