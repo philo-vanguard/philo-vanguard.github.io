@@ -30,11 +30,12 @@ My research interests include data quality, data cleaning, rule discovery, and o
 Publications
 =======
 (*Note: In papers 2-5, all authors contribute equally, sorted by alphabetic order*.)  
-5. Wenfei Fan, **Ziyan Han**, Min Xie, and Guangyi Zhang. 2025. [Discovering Top-k Relevant and Diversified Rules](https://to_be_fiiled). In SIGMOD. ACM.  
-4. Wenfei Fan, **Ziyan Han**, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. 2024. [Splitting Tuples of Mismatched Entities](https://dl.acm.org/doi/10.1145/3626763). In SIGMOD. ACM.  
-3. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. 2023. [Discovering Top-k Rules using Subjective and Objective Criteria](https://dl.acm.org/doi/abs/10.1145/3588924). In SIGMOD. ACM.  
-2. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. 2022. [Parallel Rule Discovery from Large Datasets by Sampling](https://web.archive.org/web/20220616181024id_/https://dl.acm.org/doi/pdf/10.1145/3514221.3526165). In SIGMOD. ACM.  
-1. Ting Deng, Lei Hou, and **Ziyan Han**. 2020. [Keys as features for graph entity matching](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b974/290300b974.pdf). In ICDE. IEEE.
+0. Wenfei Fan, **Ziyan Han**, Min Xie, and Guangyi Zhang. 2025. [Discovering Top-k Relevant and Diversified Rules](https://to_be_fiiled). In SIGMOD. ACM.  
+0. Wenfei Fan, **Ziyan Han**, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. 2024. [Splitting Tuples of Mismatched Entities](https://dl.acm.org/doi/10.1145/3626763). In SIGMOD. ACM.  
+0. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. 2023. [Discovering Top-k Rules using Subjective and Objective Criteria](https://dl.acm.org/doi/abs/10.1145/3588924). In SIGMOD. ACM.  
+0. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. 2022. [Parallel Rule Discovery from Large Datasets by Sampling](https://web.archive.org/web/20220616181024id_/https://dl.acm.org/doi/pdf/10.1145/3514221.3526165). In SIGMOD. ACM.  
+0. Ting Deng, Lei Hou, and **Ziyan Han**. 2020. [Keys as features for graph entity matching](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b974/290300b974.pdf). In ICDE. IEEE.  
+{: reversed="reversed"}
 
 Awards
 =======
