@@ -24,7 +24,7 @@ Research Interests
 My research interests include data quality, data cleaning, rule discovery, and other areas of combining DB and AI.
 
 <font color=red>
-  I am looking for a postdoctoral position. If you are interested, please contact me.  
+  I am looking for a postdoctoral position. If you are interested, please feel free to contact me.  
 </font>
 <br>
 
@@ -66,6 +66,7 @@ INTERNSHIP EXPERIENCE
 Internship at Shenzhen Institute of Computing Sciences (Mar. 2021 - now)
 <br>
 
-WeChat QR Code
-=======
-<img src="[https://github.com/philo-vanguard/ZiyanHan.github.io/blob/master/images/Wechat.pdf](https://github.com/philo-vanguard/philo-vanguard.github.io/assets/36916600/04082246-1afc-40c3-a69e-1332c2ecc9ae)" width = "100" height = "100" div align=left />
+
+<br><br>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ls50NVz93mcWW_X1T4un9xvvAWFvOB9qaEtKqyMyrI0&cl=ffffff&w=a"></script>
+
