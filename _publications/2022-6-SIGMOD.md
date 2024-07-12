@@ -4,9 +4,11 @@ collection: publications
 permalink: /publication/2022-6-SIGMOD
 date: June, 2022
 venue: 'Proceedings of the 2022 International Conference on Management of Data (SIGMOD)'
-paperurl: 'https://dl.acm.org/doi/10.1145/3514221.3526165'
+paperurl: ''
 citation: 'Fan, Wenfei, Ziyan Han, Yaoshu Wang, and Min Xie. "Parallel rule discovery from large datasets by sampling." In Proceedings of the 2022 International Conference on Management of Data, pp. 384-398. 2022.'
 ---
+[(Download paper here)](https://github.com/philo-vanguard/philo-vanguard.github.io/blob/master/files/papers/Rule-Discovery-Sampling-SIGMOD22.pdf)
+
 
 ### Abstract
 

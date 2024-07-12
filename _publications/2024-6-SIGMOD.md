@@ -4,9 +4,11 @@ collection: publications
 permalink: /publication/2024-6-SIGMOD
 date: December, 2023
 venue: 'Proceedings of the ACM on Management of Data (SIGMOD)'
-paperurl: 'https://dl.acm.org/doi/10.1145/3626763'
+paperurl: ''
 citation: 'Fan, Wenfei, Ziyan Han, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. "Splitting Tuples of Mismatched Entities." Proceedings of the ACM on Management of Data 1, no. 4 (2023): 1-29.'
 ---
+[(Download paper here)](https://github.com/philo-vanguard/philo-vanguard.github.io/blob/master/files/papers/Tuple-Splitting-SIGMOD24.pdf)
+
 
 ### Abstract
 
