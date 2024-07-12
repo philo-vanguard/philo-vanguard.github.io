@@ -7,7 +7,7 @@ venue: 'Proceedings of the ACM on Management of Data (SIGMOD)'
 paperurl: ''
 citation: 'Fan, Wenfei, <strong>Ziyan Han</strong>, Min Xie, and Guangyi Zhang. "Discovering Top-k Relevant and Diversified Rules." Proceedings of the ACM on Management of Data (2025).'
 ---
-[(Download paper here)](https:philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf)
+[(Download paper here)](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf)
 
 
 ### Abstract

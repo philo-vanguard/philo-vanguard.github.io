@@ -7,7 +7,7 @@ venue: 'Proceedings of the ACM on Management of Data (SIGMOD)'
 paperurl: ''
 citation: 'Fan, Wenfei, <strong>Ziyan Han</strong>, Yaoshu Wang, and Min Xie. "Discovering Top-k Rules using Subjective and Objective Criteria." Proceedings of the ACM on Management of Data 1, no. 1 (2023): 1-29.'
 ---
-[(Download paper here)](https:philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf)
+[(Download paper here)](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf)
 
 
 ### Abstract
