@@ -7,7 +7,7 @@ venue: 'Proceedings of the ACM on Management of Data (SIGMOD)'
 paperurl: ''
 citation: 'Fan, Wenfei, <strong>Ziyan Han</strong>, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. "Splitting Tuples of Mismatched Entities." Proceedings of the ACM on Management of Data 1, no. 4 (2023): 1-29.'
 ---
-[(Download paper here)](https://github.com/philo-vanguard/philo-vanguard.github.io/blob/master/files/papers/Tuple-Splitting-SIGMOD24.pdf)
+[(Download paper here)](https:philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf)
 
 
 ### Abstract
