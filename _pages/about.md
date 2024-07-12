@@ -31,34 +31,34 @@ My research interests include data quality, data cleaning, rule discovery, and o
 Publications
 =======
 (*Note: In papers 2-5, all authors contributed equally, sorted by alphabetic order*.)  
-0. Wenfei Fan, **Ziyan Han**, Min Xie, and Guangyi Zhang. 2025. [Discovering Top-k Relevant and Diversified Rules](https://to_be_fiiled). In SIGMOD. ACM.  
-0. Wenfei Fan, **Ziyan Han**, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. 2024. [Splitting Tuples of Mismatched Entities](https://dl.acm.org/doi/10.1145/3626763). In SIGMOD. ACM.  
-0. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. 2023. [Discovering Top-k Rules using Subjective and Objective Criteria](https://dl.acm.org/doi/abs/10.1145/3588924). In SIGMOD. ACM.  
-0. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. 2022. [Parallel Rule Discovery from Large Datasets by Sampling](https://web.archive.org/web/20220616181024id_/https://dl.acm.org/doi/pdf/10.1145/3514221.3526165). In SIGMOD. ACM.  
-0. Ting Deng, Lei Hou, and **Ziyan Han**. 2020. [Keys as features for graph entity matching](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b974/290300b974.pdf). In ICDE. IEEE.  
+0. Wenfei Fan, **Ziyan Han**, Min Xie, and Guangyi Zhang. 2025. [Discovering Top-k Relevant and Diversified Rules](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf). In SIGMOD. ACM.  
+0. Wenfei Fan, **Ziyan Han**, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. 2024. [Splitting Tuples of Mismatched Entities](https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf). In SIGMOD. ACM.  
+0. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. 2023. [Discovering Top-k Rules using Subjective and Objective Criteria](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf). In SIGMOD. ACM.  
+0. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. 2022. [Parallel Rule Discovery from Large Datasets by Sampling](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Sampling-SIGMOD22.pdf). In SIGMOD. ACM.  
+0. Ting Deng, Lei Hou, and **Ziyan Han**. 2020. [Keys as features for graph entity matching](https://philo-vanguard.github.io/files/papers/GMKs-ICDE20.pdf). In ICDE. IEEE.  
 {: reversed="reversed"}
 <br>
 
 Awards
 =======
 2018 – 2024  
-&#8195;&#8195; SIGMOD 2024 Student Support Scholarship, 2024 (800 USD)  
-&#8195;&#8195; SIGMOD 2023 Student Travel Award, 2023 (1000 USD)  
-&#8195;&#8195; Outstanding Freshman Scholarship, BUAA, 2018 (30000 RMB)  
+&#8195;&#8195; SIGMOD 2024 Student Support Scholarship, 2024  
+&#8195;&#8195; SIGMOD 2023 Student Travel Award, 2023  
+&#8195;&#8195; Outstanding Freshman Scholarship, BUAA, 2018  
 &#8195;&#8195; Outstanding Graduate Students Award, BUAA, 2020  
 &#8195;&#8195; Merit Student Award, BUAA, 2021  
 &#8195;&#8195; Merit Student Award, BUAA, 2020  
 &#8195;&#8195; Merit Student Award, BUAA, 2019  
-&#8195;&#8195; The Second Prize Scholarship, BUAA, 2021 (12400 RMB)  
-&#8195;&#8195; The First Prize Scholarship, BUAA, 2020 (15400 RMB)  
-&#8195;&#8195; The Second Prize Scholarship, BUAA, 2019 (12400 RMB)  
-&#8195;&#8195; CASC Scholarship, BUAA, 2022 (3000 RMB)  
+&#8195;&#8195; The Second Prize Scholarship, BUAA, 2021  
+&#8195;&#8195; The First Prize Scholarship, BUAA, 2020  
+&#8195;&#8195; The Second Prize Scholarship, BUAA, 2019  
+&#8195;&#8195; CASC Scholarship, BUAA, 2022  
 
 2014 – 2018  
-&#8195;&#8195; National Scholarship for Encouragement, 2016 (5000 RMB)  
-&#8195;&#8195; The Special Scholarship, XDU, 2017 (3000 RMB)  
-&#8195;&#8195; The Second Prize Scholarship, XDU, 2015 (1000 RMB)  
-&#8195;&#8195; The Second Prize Scholarship, XDU, 2014 (1000 RMB)  
+&#8195;&#8195; National Scholarship for Encouragement, 2016  
+&#8195;&#8195; The Special Scholarship, XDU, 2017  
+&#8195;&#8195; The Second Prize Scholarship, XDU, 2015  
+&#8195;&#8195; The Second Prize Scholarship, XDU, 2014  
 <br>
 
 INTERNSHIP EXPERIENCE
