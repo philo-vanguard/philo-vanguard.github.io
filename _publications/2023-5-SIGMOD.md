@@ -5,7 +5,7 @@ permalink: /publication/2023-5-SIGMOD
 date: May, 2023
 venue: 'Proceedings of the ACM on Management of Data (SIGMOD)'
 paperurl: ''
-citation: 'Fan, Wenfei, Ziyan Han, Yaoshu Wang, and Min Xie. "Discovering Top-k Rules using Subjective and Objective Criteria." Proceedings of the ACM on Management of Data 1, no. 1 (2023): 1-29.'
+citation: 'Fan, Wenfei, <strong>Ziyan Han</strong>, Yaoshu Wang, and Min Xie. "Discovering Top-k Rules using Subjective and Objective Criteria." Proceedings of the ACM on Management of Data 1, no. 1 (2023): 1-29.'
 ---
 [(Download paper here)](https://github.com/philo-vanguard/philo-vanguard.github.io/blob/master/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf)
 
