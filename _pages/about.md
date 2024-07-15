@@ -61,7 +61,7 @@ Awards
 &#8195;&#8195; The Second Prize Scholarship, XDU, 2014  
 <br>
 
-INTERNSHIP EXPERIENCE
+Internship Experience
 =======
 Internship at Shenzhen Institute of Computing Sciences (Mar. 2021 - now)
 <br>
