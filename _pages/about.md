@@ -32,7 +32,7 @@ Research Interests
 My research interests include data quality, data management, rule discovery, and other areas of combining DB and AI.
 
 <font color=red>
-  I am set to graduate in 2025 and am currently seeking a postdoctoral position. If you are interested, please feel free to contact me.  
+  I am set to graduate in Spring 2025 and am currently seeking a *postdoctoral* position. If you are interested, please feel free to contact me.  
 </font>
 <br>
 
