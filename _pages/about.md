@@ -64,7 +64,7 @@ Working Experience
 <br>
 
 
-Selected Awards
+Awards
 =======
 2018 – 2024&#8195; _Beihang University_  
 1. SIGMOD 2024 Student Support Scholarship, 2024 (800 USD)  
