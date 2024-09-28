@@ -62,23 +62,23 @@ Teaching Assistant, Beihang University, Beijing, China&#8195; (2020 – 2021)
 Awards
 =======
 2018 – 2024  
-&#8195;&#8195; SIGMOD 2024 Student Support Scholarship, 2024  
-&#8195;&#8195; SIGMOD 2023 Student Travel Award, 2023  
-&#8195;&#8195; Outstanding Freshman Scholarship, BUAA, 2018  
+&#8195;&#8195; SIGMOD 2024 Student Support Scholarship, 2024 (800 USD)  
+&#8195;&#8195; SIGMOD 2023 Student Travel Award, 2023 (1000 USD)  
+&#8195;&#8195; Outstanding Freshman Scholarship, BUAA, 2018 (30000 RMB)  
 &#8195;&#8195; Outstanding Graduate Students Award, BUAA, 2020  
 &#8195;&#8195; Merit Student Award, BUAA, 2021  
 &#8195;&#8195; Merit Student Award, BUAA, 2020  
 &#8195;&#8195; Merit Student Award, BUAA, 2019  
-&#8195;&#8195; The Second Prize Scholarship, BUAA, 2021  
-&#8195;&#8195; The First Prize Scholarship, BUAA, 2020  
-&#8195;&#8195; The Second Prize Scholarship, BUAA, 2019  
-&#8195;&#8195; CASC Scholarship, BUAA, 2022  
+&#8195;&#8195; The Second Prize Scholarship, BUAA, 2021 (12400 RMB)  
+&#8195;&#8195; The First Prize Scholarship, BUAA, 2020 (15400 RMB)  
+&#8195;&#8195; The Second Prize Scholarship, BUAA, 2019 (12400 RMB)  
+&#8195;&#8195; CASC Scholarship, BUAA, 2022 (3000 RMB)  
 
 2014 – 2018  
-&#8195;&#8195; National Scholarship for Encouragement, 2016  
-&#8195;&#8195; The Special Scholarship, XDU, 2017  
-&#8195;&#8195; The Second Prize Scholarship, XDU, 2015  
-&#8195;&#8195; The Second Prize Scholarship, XDU, 2014  
+&#8195;&#8195; National Scholarship for Encouragement, 2016 (5000 RMB)  
+&#8195;&#8195; The Special Scholarship, XDU, 2017 (3000 RMB)  
+&#8195;&#8195; The Second Prize Scholarship, XDU, 2015 (1000 RMB)  
+&#8195;&#8195; The Second Prize Scholarship, XDU, 2014 (1000 RMB)  
 <br>
 
 
