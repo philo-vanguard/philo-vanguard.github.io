@@ -10,13 +10,13 @@ redirect_from:
 
 Education
 =======
-2018-2024&#8195; Beihang University (BUAA)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; PhD in Computer Science, supervised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; GPA 3.76/4, ranked 11/91 (12%) in Computer Science
+2018-2024&#8195; Beihang University (BUAA), Beijing, China  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; School of Computer Science and Engineering  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Ph.D. candidate in Computer Software and Theory, GPA 3.76/4, ranked 11/91 (12%), supervised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)
 
-2014-2018&#8195; Xidian University (XDU)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Undergraduate in Computer Science  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; GPA 3.74/4, ranked 3/175 (1.7%) in Computer Science
+2014-2018&#8195; Xidian University (XDU), Xi'an, China 
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; School of Computer Science and Technology
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; B.E. in Computer Science and Technology, GPA 3.74/4, ranked 3/175 (1.7%)
 <br>
 
 Research Interests
@@ -38,6 +38,23 @@ Publications
 0. Ting Deng, Lei Hou, and **Ziyan Han**. [Keys as features for graph entity matching](https://philo-vanguard.github.io/files/papers/GMKs-ICDE20.pdf). In ICDE (2020). IEEE.  
 <!-- {: reversed="reversed"}  -->
 <br>
+
+
+Working Experience
+=======
+Intern Researcher, Shenzhen Institute of Computing Sciences, Shenzhen, China&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 2021 – 2024
+-	Project: Parallel Rule Discovery from Large Datasets by Sampling
+-	Project: Discovering Top-k Rules using Subjective and Objective Criteria
+-	Project: Discovering Top-k Relevant and Diversified Rules	
+-	Project: Splitting Tuples of Mismatched Entities
+
+Research Assistant, Beihang University, Beijing, China&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 2019 – 2020
+-	Project: Keys as features for graph entity matching
+
+Teaching Assistant, Beihang University, Beijing, China&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; 2020 – 2021
+-	Class: Formal Languages and Automata
+<br>
+
 
 Awards
 =======
@@ -61,11 +78,13 @@ Awards
 &#8195;&#8195; The Second Prize Scholarship, XDU, 2014  
 <br>
 
-Internship Experience
-=======
-Internship at Shenzhen Institute of Computing Sciences (Mar. 2021 - now)
-<br>
 
+Skills
+=======
+Programming: Python, Java, Bash, C/C++
+Tools: Latex, Spark
+Language: English, Chinese
+<br>
 
 <br><br>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ls50NVz93mcWW_X1T4un9xvvAWFvOB9qaEtKqyMyrI0&cl=ffffff&w=a"></script>
