@@ -46,9 +46,9 @@ Publications
 Working Experience
 =======
 2021-2024&#8195; _Intern Researcher_, Shenzhen Institute of Computing Sciences, Shenzhen, China
--	Project: Parallel Rule Discovery from Large Datasets by Sampling  
--	Project: Discovering Top-k Rules using Subjective and Objective Criteria  
--	Project: Discovering Top-k Relevant and Diversified Rules  
+----	Project: Parallel Rule Discovery from Large Datasets by Sampling  
+---	Project: Discovering Top-k Rules using Subjective and Objective Criteria  
+--	Project: Discovering Top-k Relevant and Diversified Rules  
 -	Project: Splitting Tuples of Mismatched Entities  
 
 2019-2020&#8195; _Research Assistant_, Beihang University, Beijing, China
