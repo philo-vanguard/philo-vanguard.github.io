@@ -24,12 +24,12 @@ Education
 
 Research Interests
 =======
-&#8195; _Rule Discovery_: Sampling, Top-k, Diversified, etc.  
-&#8195; _Data Management_: Error Detection, Data cleaning, etc.  
-&#8195; _Data Quality_: Conflict resolution, Entity resolution, Tuple splitting, etc.  
-&#8195; _DB combined AI_: AI for DB, DB for AI, etc.
+&#8195; Rule Discovery: Sampling, Top-k, Diversified, etc.  
+&#8195; Data Management: Error Detection, Data cleaning, etc.  
+&#8195; Data Quality: Conflict resolution, Entity resolution, Tuple splitting, etc.  
+&#8195; DB combined AI: AI for DB, DB for AI, etc.
 
-My research interests include data quality, data cleaning, rule discovery, and other areas of combining DB and AI.
+My research interests include data quality, data management, rule discovery, and other areas of combining DB and AI.
 
 <font color=red>
   I am looking for a postdoctoral position. If you are interested, please feel free to contact me.  
