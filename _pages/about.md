@@ -24,10 +24,10 @@ Education
 
 Research Interests
 =======
-&#8195; Rule Discovery: Sampling, Top-k, Diversified, etc.  
-&#8195; Data Management: Error Detection, Data cleaning, etc.  
-&#8195; Data Quality: Conflict resolution, Entity resolution, Tuple splitting, etc.  
-&#8195; DB combined AI: AI for DB, DB for AI, etc.
+- Rule Discovery: Sampling, Top-k, Diversified, etc.  
+- Data Management: Error Detection, Data cleaning, etc.  
+- Data Quality: Conflict resolution, Entity resolution, Tuple splitting, etc.  
+- DB combined AI: AI for DB, DB for AI, etc.
 
 My research interests include data quality, data management, rule discovery, and other areas of combining DB and AI.
 
