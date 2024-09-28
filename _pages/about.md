@@ -12,11 +12,14 @@ Education
 =======
 2018-2024&#8195; Beihang University (BUAA), Beijing, China  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; School of Computer Science and Engineering  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Ph.D. candidate in Computer Software and Theory, GPA 3.76/4, ranked 11/91 (12%), supervised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Ph.D. candidate in Computer Software and Theory  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; GPA 3.76/4, ranked 11/91 (12%)  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Advisor: [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)
 
-2014-2018&#8195; Xidian University (XDU), Xi'an, China 
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; School of Computer Science and Technology
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; B.E. in Computer Science and Technology, GPA 3.74/4, ranked 3/175 (1.7%)
+2014-2018&#8195; Xidian University (XDU), Xi'an, China  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; School of Computer Science and Technology  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; B.E. in Computer Science and Technology  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; GPA 3.74/4, ranked 3/175 (1.7%)  
 <br>
 
 Research Interests
