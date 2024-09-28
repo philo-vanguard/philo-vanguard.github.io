@@ -45,16 +45,16 @@ Publications
 
 Working Experience
 =======
-Intern Researcher, Shenzhen Institute of Computing Sciences, Shenzhen, China&#8195; (2021 – 2024)  
+2021-2024&#8195; Intern Researcher, Shenzhen Institute of Computing Sciences, Shenzhen, China
 -	Project: Parallel Rule Discovery from Large Datasets by Sampling
 -	Project: Discovering Top-k Rules using Subjective and Objective Criteria
 -	Project: Discovering Top-k Relevant and Diversified Rules	
 -	Project: Splitting Tuples of Mismatched Entities
 
-Research Assistant, Beihang University, Beijing, China&#8195; (2019 – 2020)
+2019-2020&#8195; Research Assistant, Beihang University, Beijing, China
 -	Project: Keys as features for graph entity matching
 
-Teaching Assistant, Beihang University, Beijing, China&#8195; (2020 – 2021)
+2020-2021&#8195; Teaching Assistant, Beihang University, Beijing, China
 -	Class: Formal Languages and Automata
 <br>
 
