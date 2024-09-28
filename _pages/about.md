@@ -89,9 +89,9 @@ Awards
 
 Skills
 =======
-Programming: Python, Java, Bash, C/C++  
-Tools: Latex, Spark  
-Language: English, Chinese  
+- Programming: Python, Java, Bash, C/C++  
+- Tools: Latex, Spark  
+- Language: English, Chinese  
 <br>
 
 <br><br>
