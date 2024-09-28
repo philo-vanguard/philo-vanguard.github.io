@@ -61,7 +61,7 @@ Working Experience
 
 Awards
 =======
-2018 – 2024, _Beihang University_  
+2018 – 2024&#8195; _Beihang University_  
 1. SIGMOD 2024 Student Support Scholarship, 2024 (800 USD)  
 2. SIGMOD 2023 Student Travel Award, 2023 (1000 USD)  
 3. Outstanding Freshman Scholarship, BUAA, 2018 (30000 RMB)  
@@ -73,9 +73,8 @@ Awards
 9. The First Prize Scholarship, BUAA, 2020 (15400 RMB)  
 10. The Second Prize Scholarship, BUAA, 2019 (12400 RMB)  
 11. CASC Scholarship, BUAA, 2022 (3000 RMB)  
-<br>
 
-2014 – 2018, _Xidian University_  
+2014 – 2018&#8195; _Xidian University_  
 1. National Scholarship for Encouragement, 2016 (5000 RMB)  
 2. The Special Scholarship, XDU, 2017 (3000 RMB)  
 3. The Second Prize Scholarship, XDU, 2015 (1000 RMB)  
