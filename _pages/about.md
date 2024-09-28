@@ -60,7 +60,7 @@ Working Experience
 -	Project: Keys as features for graph entity matching
 
 2020-2021&#8195; _Teaching Assistant_, Beihang University, Beijing, China
--	Class: Formal Languages and Automata
+-	Class: Formal Languages and Automata  
 <br>
 
 
