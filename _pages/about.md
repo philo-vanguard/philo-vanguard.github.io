@@ -52,14 +52,14 @@ Research Experiences
 =======
 My research primarily focuses on database and data quality, specifically on the discovery and application of data quality rules. My work has been published in top-tier database conferences, i.e., SIGMOD and ICDE. Below is a concise overview of my contributions across various domains.
 
-1. Rule Discovery and Data Analysis
+1. _Rule Discovery and Data Analysis_
     - I have tackled several challenges in rule discovery, including high computational costs and extensive resource consumption [SIGMOD22], the limitations of non-comprehensive rule
 evaluation metrics that lack subjective criteria [SIGMOD23], and redundancy within mined rule sets [SIGMOD25].
 
-2. Data Management and Data Quality
+2. _Data Management and Data Quality_
     - I have developed methods for resolving conflicts within tuples of mismatched entities [SIGMOD24], and for graph entity resolution using graph keys [ICDE20].
 
-3. DB combined AI
+3. _DB combined AI_
     - I have integrated machine learning techniques with logic rules to enhance data quality. Specifically, I utilize machine learning techniques to accelerate the rule discovery process [SIGMOD22, SIGMOD23, SIGMOD25]. Additionally, rules discovered can be further applied to improve data quality, such as entity resolution, conflict resolution, and tuple splitting [SIGMOD24, ICDE20].
 <br>
 
