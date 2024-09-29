@@ -95,10 +95,10 @@ Awards
 - CASC Scholarship, BUAA, 2022 (3000 RMB)  
 
 2014 – 2018&#8195; _Xidian University_  
-1. National Scholarship for Encouragement, 2016 (5000 RMB)  
-2. The Special Scholarship, XDU, 2017 (3000 RMB)  
-3. The Second Prize Scholarship, XDU, 2015 (1000 RMB)  
-4. The Second Prize Scholarship, XDU, 2014 (1000 RMB)  
+- National Scholarship for Encouragement, 2016 (5000 RMB)  
+- The Special Scholarship, XDU, 2017 (3000 RMB)  
+- The Second Prize Scholarship, XDU, 2015 (1000 RMB)  
+- The Second Prize Scholarship, XDU, 2014 (1000 RMB)  
 <br>
 
 
