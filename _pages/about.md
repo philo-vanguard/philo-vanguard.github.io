@@ -115,5 +115,4 @@ Services
 <br>
 
 <br><br>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ls50NVz93mcWW_X1T4un9xvvAWFvOB9qaEtKqyMyrI0&cl=ffffff&w=a"></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=ls50NVz93mcWW_X1T4un9xvvAWFvOB9qaEtKqyMyrI0'></script>
