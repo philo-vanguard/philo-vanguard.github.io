@@ -104,7 +104,7 @@ Awards
 
 Skills
 =======
-- Programming: Python, Java, Bash, C/C++
+- Programming: Python, Java, Bash, C/C++, Markdown
 - Tools: LaTeX, Git, Spark  
 <br>
 
