@@ -82,23 +82,23 @@ Working Experience
 Awards
 =======
 2018 – 2024&#8195; _Beihang University_  
--	SIGMOD 2024 Student Support Scholarship, 2024 (800 USD)  
-- SIGMOD 2023 Student Travel Award, 2023 (1000 USD)  
-- Outstanding Freshman Scholarship, BUAA, 2018 (30000 RMB)  
+-	SIGMOD 2024 Student Support Scholarship, 2024  
+- SIGMOD 2023 Student Travel Award, 2023  
+- Outstanding Freshman Scholarship, BUAA, 2018  
 - Outstanding Graduate Students Award, BUAA, 2020  
 - Merit Student Award, BUAA, 2021  
 - Merit Student Award, BUAA, 2020  
 - Merit Student Award, BUAA, 2019  
-- The Second Prize Scholarship, BUAA, 2021 (12400 RMB)  
-- The First Prize Scholarship, BUAA, 2020 (15400 RMB)  
-- The Second Prize Scholarship, BUAA, 2019 (12400 RMB)  
+- The Second Prize Scholarship, BUAA, 2021  
+- The First Prize Scholarship, BUAA, 2020  
+- The Second Prize Scholarship, BUAA, 2019  
 - CASC Scholarship, BUAA, 2022 (3000 RMB)  
 
 2014 – 2018&#8195; _Xidian University_  
-- National Scholarship for Encouragement, 2016 (5000 RMB)  
-- The Special Scholarship, XDU, 2017 (3000 RMB)  
-- The Second Prize Scholarship, XDU, 2015 (1000 RMB)  
-- The Second Prize Scholarship, XDU, 2014 (1000 RMB)  
+- National Scholarship for Encouragement, 2016  
+- The Special Scholarship, XDU, 2017  
+- The Second Prize Scholarship, XDU, 2015  
+- The Second Prize Scholarship, XDU, 2014  
 <br>
 
 
