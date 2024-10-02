@@ -92,7 +92,7 @@ Awards
 - The Second Prize Scholarship, BUAA, 2021  
 - The First Prize Scholarship, BUAA, 2020  
 - The Second Prize Scholarship, BUAA, 2019  
-- CASC Scholarship, BUAA, 2022 (3000 RMB)  
+- CASC Scholarship, BUAA, 2022  
 
 2014 – 2018&#8195; _Xidian University_  
 - National Scholarship for Encouragement, 2016  
