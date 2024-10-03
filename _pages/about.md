@@ -86,12 +86,9 @@ Awards
 - SIGMOD 2023 Student Travel Award, 2023  
 - Outstanding Freshman Scholarship, BUAA, 2018  
 - Outstanding Graduate Students Award, BUAA, 2020  
-- Merit Student Award, BUAA, 2021  
-- Merit Student Award, BUAA, 2020  
-- Merit Student Award, BUAA, 2019  
-- The Second Prize Scholarship, BUAA, 2021  
+- Merit Student Award, BUAA, 2019/2020/2021  
+- The Second Prize Scholarship, BUAA, 2019/2021  
 - The First Prize Scholarship, BUAA, 2020  
-- The Second Prize Scholarship, BUAA, 2019  
 - CASC Scholarship, BUAA, 2022  
 
 2014 – 2018&#8195; _Xidian University_  
@@ -106,6 +103,8 @@ Skills
 =======
 - Programming: Python, Java, Bash, C/C++, Markdown
 - Tools: LaTeX, Git, Spark  
+- Languages: English, Chinese (native)  
+- Hobbies: Tennis, Fitness (Strength Training), Cooking, Latin Dance, etc.  
 <br>
 
 
