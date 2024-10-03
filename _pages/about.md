@@ -99,7 +99,7 @@ Awards
 <br>
 
 
-Skills
+Skills & Hobbies
 =======
 - Programming: Python, Java, Bash, C/C++, Markdown
 - Tools: LaTeX, Git, Spark  
