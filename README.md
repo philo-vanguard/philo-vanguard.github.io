@@ -1,3 +1,13 @@
+# Added by Me
+
+1. Modify the content displayed on the homepage: **_pages/about.md**
+2. Modify the widgets below the photo: **_config.yml**
+3. Modify the publications: **_publications** and **_pages/publications.md**
+4. Modify the widgets displayed at the top of the homepage: **_data/navigation.yml**
+5. Modify the content format displayed in the publication module: **_includes/archive-single.html** and **_layouts/single.html**
+
+-------------------------------------
+
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
