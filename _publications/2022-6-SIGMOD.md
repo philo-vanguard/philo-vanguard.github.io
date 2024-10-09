@@ -8,7 +8,7 @@ paperurl: ''
 citation: 'Fan, Wenfei, <strong>Ziyan Han</strong>, Yaoshu Wang, and Min Xie. "Parallel rule discovery from large datasets by sampling." In Proceedings of the 2022 International Conference on Management of Data, pp. 384-398. 2022.'
 ---
 [(Download paper here)](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Sampling-SIGMOD22.pdf)&nbsp;&nbsp;
-[(Download slides here)](https://philo-vanguard.github.io/files/slides/Rule-Discovery-Sampling-SIGMOD22.ppt)&nbsp;&nbsp;
+[(Download slides here)](https://philo-vanguard.github.io/files/slides/Rule-Discovery-Sampling-SIGMOD22.pptx)&nbsp;&nbsp;
 [(Download source codes here)](https://github.com/philo-vanguard/PRMiner)
 
 ### Abstract

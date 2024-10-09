@@ -8,7 +8,7 @@ paperurl: ''
 citation: 'Fan, Wenfei, <strong>Ziyan Han</strong>, Yaoshu Wang, and Min Xie, 2023. Discovering Top-k Rules using Subjective and Objective Criteria. Proceedings of the ACM on Management of Data (SIGMOD), 1(1), pp.1-29.'
 ---
 [(Download paper here)](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf)&nbsp;&nbsp;
-[(Download slide here)](https://philo-vanguard.github.io/files/slides/Rule-Discovery-Top-k-SIGMOD23.ppt)&nbsp;&nbsp;
+[(Download slide here)](https://philo-vanguard.github.io/files/slides/Rule-Discovery-Top-k-SIGMOD23.pptx)&nbsp;&nbsp;
 [(Download source codes here)](https://github.com/philo-vanguard/PTopk-Miner)
 
 

@@ -8,7 +8,7 @@ paperurl: ''
 citation: 'Fan, Wenfei, <strong>Ziyan Han</strong>, Min Xie, and Guangyi Zhang, 2024. Discovering Top-k Relevant and Diversified Rules. Proceedings of the ACM on Management of Data (SIGMOD), 2(4), pp.1-28.'
 ---
 [(Download paper here)](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf)&nbsp;&nbsp;
-[(Download slide here)](https://philo-vanguard.github.io/files/slides/Rule-Discovery-Top-k-Diversified-SIGMOD25.ppt)&nbsp;&nbsp;
+[(Download slide here)](https://philo-vanguard.github.io/files/slides/Rule-Discovery-Top-k-Diversified-SIGMOD25.pptx)&nbsp;&nbsp;
 [(Download source codes here)](https://github.com/philo-vanguard/PTopKDivMiner)
 
 
