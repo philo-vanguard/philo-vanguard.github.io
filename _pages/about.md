@@ -14,7 +14,7 @@ Education
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; School of Computer Science and Engineering  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Ph.D. candidate in Computer Software and Theory  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; GPA 3.76/4, ranked 11/91 (12%)  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Advisor: [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Advisor: [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Academic Research during Ph.D. [(slide)](https://docs.google.com/presentation/d/1IwrFGbbDM4iFRAXHXYgyfv8xACUZPEtQ/edit?usp=sharing&ouid=115569612428278684294&rtpof=true&sd=true)  
 
 2014-2018&#8195; Xidian University (XDU), Xi'an, China  
