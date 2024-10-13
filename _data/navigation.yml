@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: https://philo-vanguard.github.io/files/Ziyan_Han_En_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
