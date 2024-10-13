@@ -68,7 +68,7 @@ layout: default
         {% endif %}
 -->
         {% if page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
+          <p>{{ page.citation }} </p>
         {% endif %}
         
         {% if page.link %}<div><a href="{{ page.link }}" class="btn" style="color:black;">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
