@@ -67,13 +67,13 @@ evaluation metrics that lack subjective criteria [SIGMOD23], and redundancy with
 Working Experience
 =======
 2021-2024&#8195; _Intern Researcher_, Shenzhen Institute of Computing Sciences, Shenzhen, China
--	Project: Parallel Rule Discovery from Large Datasets by Sampling([link])[https://philo-vanguard.github.io/publication/2022-6-SIGMOD]
--	Project: Discovering Top-k Rules using Subjective and Objective Criteria([link])[https://philo-vanguard.github.io/publication/2023-5-SIGMOD]
--	Project: Discovering Top-k Relevant and Diversified Rules([link])[https://philo-vanguard.github.io/publication/2025-6-SIGMOD]
--	Project: Splitting Tuples of Mismatched Entities([link])[https://philo-vanguard.github.io/publication/2024-6-SIGMOD]
+-	Project: Parallel Rule Discovery from Large Datasets by Sampling[[link]](https://philo-vanguard.github.io/publication/2022-6-SIGMOD)
+-	Project: Discovering Top-k Rules using Subjective and Objective Criteria[[link]](https://philo-vanguard.github.io/publication/2023-5-SIGMOD)
+-	Project: Discovering Top-k Relevant and Diversified Rules[[link]](https://philo-vanguard.github.io/publication/2025-6-SIGMOD)
+-	Project: Splitting Tuples of Mismatched Entities[[link]](https://philo-vanguard.github.io/publication/2024-6-SIGMOD)
 
 2019-2020&#8195; _Research Assistant_, Beihang University, Beijing, China
--	Project: Keys as features for graph entity matching([link])[https://philo-vanguard.github.io/publication/2020-4-ICDE]
+-	Project: Keys as features for graph entity matching[[link]](https://philo-vanguard.github.io/publication/2020-4-ICDE)
 
 2020-2021&#8195; _Teaching Assistant_, Beihang University, Beijing, China
 -	Class: Formal Languages and Automata  
