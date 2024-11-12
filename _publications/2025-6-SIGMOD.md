@@ -1,5 +1,5 @@
 ---
-title: "Discovering Top-k Relevant and Diversified Rules"
+title: "**Discovering Top-k Relevant and Diversified Rules"
 collection: publications
 permalink: /publication/2025-6-SIGMOD
 date: June, 2025
