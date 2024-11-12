@@ -1,5 +1,5 @@
 ---
-title: "Splitting Tuples of Mismatched Entities"
+title: "**Splitting Tuples of Mismatched Entities"
 collection: publications
 permalink: /publication/2024-6-SIGMOD
 date: June, 2024
