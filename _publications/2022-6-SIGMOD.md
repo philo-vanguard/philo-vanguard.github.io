@@ -1,5 +1,5 @@
 ---
-title: "Parallel Rule Discovery from Large Datasets by Sampling"
+title: "**Parallel Rule Discovery from Large Datasets by Sampling"
 collection: publications
 permalink: /publication/2022-6-SIGMOD
 date: June, 2022
