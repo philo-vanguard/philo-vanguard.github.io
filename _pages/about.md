@@ -66,7 +66,7 @@ evaluation metrics that lack subjective criteria [SIGMOD23], and redundancy with
     - I have integrated machine learning techniques with logic rules to enhance data quality. Specifically, I utilize machine learning techniques to accelerate the rule discovery process [SIGMOD22, SIGMOD23, SIGMOD25]. Additionally, rules discovered can be further applied to improve data quality, such as entity resolution, conflict resolution, and tuple splitting [SIGMOD24, ICDE20].  
 <br>
 
-Working Experience
+Working Experiences
 =======
 2021-2024&#8195; _Intern Researcher_, Shenzhen Institute of Computing Sciences, Shenzhen, China
 -	Project: Parallel Rule Discovery from Large Datasets by Sampling [[link]](https://philo-vanguard.github.io/publication/2022-6-SIGMOD)
