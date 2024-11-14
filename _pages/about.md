@@ -41,7 +41,7 @@ I am also open to exploring other research directions and enthusiastic about inv
 
 Publications
 =======
-<font color=blue>(*Note: In papers 1-4, all authors are sorted by alphabetic order*.)</font>  
+<span style="color: blue">(*Note: In papers 1-4, all authors are sorted by alphabetic order*.)</span>  
 0. Wenfei Fan, **Ziyan Han**, Min Xie, and Guangyi Zhang. [Discovering Top-k Relevant and Diversified Rules](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf). In SIGMOD (2025). ACM.  
 0. Wenfei Fan, **Ziyan Han**, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan. [Splitting Tuples of Mismatched Entities](https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf). In SIGMOD (2024). ACM.  
 0. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. [Discovering Top-k Rules using Subjective and Objective Criteria](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf). In SIGMOD (2023). ACM.  
