@@ -114,7 +114,7 @@ Skills & Hobbies
 
 Services
 =======
-- Sub-reviewer: AAAI 2023, APWEB 2023, TKDE 2023, ICDE 2024, ICDE 2025
+- Sub-reviewer: AAAI 2023, APWEB 2023, TKDE 2023, ICDE 2024, ICDE 2025, APWEB 2025
 - Volunteer: SIGMOD 2023
 <br>
 
