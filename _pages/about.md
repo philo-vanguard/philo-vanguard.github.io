@@ -86,6 +86,7 @@ Working Experiences
 Awards
 =======
 2018 – 2024&#8195; _Beihang University_  
+- SIGMOD 2025 Student Travel Grants, 2025  
 -	SIGMOD 2024 Student Support Scholarship, 2024  
 - SIGMOD 2023 Student Travel Award, 2023  
 - Outstanding Freshman Scholarship, BUAA, 2018  
