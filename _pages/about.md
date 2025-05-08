@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 =======
-2018-2024&#8195; Beihang University (BUAA), Beijing, China  
+2018-2025&#8195; Beihang University (BUAA), Beijing, China  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; School of Computer Science and Engineering  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Ph.D. candidate in Computer Software and Theory  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; GPA 3.76/4, ranked 11/91 (12%)  
@@ -85,7 +85,7 @@ Working Experiences
 
 Awards
 =======
-2018 – 2024&#8195; _Beihang University_  
+2018 – 2025&#8195; _Beihang University_  
 - SIGMOD 2025 Student Travel Grants, 2025  
 -	SIGMOD 2024 Student Support Scholarship, 2024  
 - SIGMOD 2023 Student Travel Award, 2023  
