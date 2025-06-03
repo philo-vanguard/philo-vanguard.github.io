@@ -12,7 +12,7 @@ Education
 =======
 2018-2025&#8195; Beihang University (BUAA), Beijing, China  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; School of Computer Science and Engineering  
-&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Ph.D. candidate in Computer Software and Theory  
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Ph.D. in Computer Software and Theory  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; GPA 3.76/4, ranked 11/91 (12%)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Supervised by: [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/) and [Dr. Yaoshu Wang](https://dblp.org/pid/131/4193.html)  
 &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195; Academic Research during Ph.D. [(slide)](https://drive.google.com/drive/folders/1r0gZZ-i5PXJzRAHtGtcVl_ykyM84UOSB?usp=sharing)  
