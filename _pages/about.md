@@ -102,7 +102,7 @@ Awards
 - National Scholarship for Encouragement, 2016  
 - The Special Scholarship, XDU, 2017
 - National/Provincial  College Student Innovation and Entrepreneurship Training Program Completion Certificate, 2017
-- Outstanding Student Model of Xidian University, 2017  
+- Outstanding Student Model Award, XDU, 2017  
 - The Second Prize Scholarship, XDU, 2015  
 - The Second Prize Scholarship, XDU, 2014  
 <br>
