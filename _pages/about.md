@@ -26,7 +26,7 @@ Education
 Research Interests
 =======
 - Data Mining/Rule Discovery: Sampling, Top-k, Diversified, etc.  
-- Logic Deduction combined ML models: AI for DB, DB for AI, etc.
+- Logic Deduction combined with ML models: AI for DB, DB for AI, etc.
 - Data Management: Error Detection, Data cleaning, etc.  
 - Data Quality: Conflict resolution, Entity resolution, Tuple splitting, etc.  
 
