@@ -25,10 +25,10 @@ Education
 
 Research Interests
 =======
-- Rule Discovery: Sampling, Top-k, Diversified, etc.  
+- Data Mining/Rule Discovery: Sampling, Top-k, Diversified, etc.  
+- Logic Deduction combined ML models: AI for DB, DB for AI, etc.
 - Data Management: Error Detection, Data cleaning, etc.  
 - Data Quality: Conflict resolution, Entity resolution, Tuple splitting, etc.  
-- DB combined AI: AI for DB, DB for AI, etc.
 
 My research interests include data quality, data management, rule discovery, and other areas of combining DB and AI. I have a strong interest in the intersection of DB and AI. I am particularly intrigued by how database techniques can enhance AI model performance, and vice versa. I expect to explore applying logic rules to make black-box ML models more interpretable and robust, collaborative optimization between logic rule discovery and specific downstream ML tasks, utilizing ML techniques to optimize various database management processes, etc.  
 
