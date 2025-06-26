@@ -42,8 +42,7 @@ I am also open to exploring other research directions and enthusiastic about inv
 -->
 
 <font color=red>
-  Currently job searching.  
-  Actively seeking new opportunities.  
+  Currently Job Searching [Actively seeking new opportunities].  
 </font>
 <br>
 
