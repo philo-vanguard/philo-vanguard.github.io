@@ -41,6 +41,14 @@ I am also open to exploring other research directions and enthusiastic about inv
 <br>
 -->
 
+<font color=red>
+  Currently job searching.  
+  Actively seeking new opportunities.  
+</font>
+<br>
+-->
+
+
 Publications
 =======
 <span style="color: #3399cc;">(*Note: In papers 1-4, all authors are sorted by alphabetic order*.)</span>  
