@@ -119,7 +119,7 @@ Skills & Hobbies
 - Programming: Python, Java, Bash, C/C++, Markdown
 - Tools: LaTeX, Git, Spark  
 - Languages: English, Chinese (native)  
-- Hobbies: Tennis, Fitness (Strength Training), Cooking, Latin Dance, etc.  
+- Hobbies: Tennis, Fitness (Strength Training), Cooking, etc.  
 <br>
 
 
