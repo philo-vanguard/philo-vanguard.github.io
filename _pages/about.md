@@ -41,10 +41,11 @@ I am also open to exploring other research directions and enthusiastic about inv
 <br>
 -->
 
+<!-- 
 <font color=red>
   Currently Job Searching (actively seeking new opportunities).  
 </font>
-<br>
+<br> -->
 
 
 Publications
