@@ -17,6 +17,7 @@ My research interests include data management, data quality, data mining, data c
 I was recognized as a Distinguished Graduate of Beihang University (2025) and have been awarded the SIGMOD Student Travel Grant three times (2023–2025).
 <br>
 
+
 Publications
 =======
 <span style="color: #3399cc;">(*Note: In papers 1-4, all authors are sorted by alphabetic order*.)</span>  
@@ -79,7 +80,6 @@ Publications
 0. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. [Discovering Top-k Rules using Subjective and Objective Criteria](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf). In SIGMOD (2023). ACM.  
 0. Wenfei Fan, **Ziyan Han**, Yaoshu Wang, and Min Xie. [Parallel Rule Discovery from Large Datasets by Sampling](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Sampling-SIGMOD22.pdf). In SIGMOD (2022). ACM.  
 0. Ting Deng, Lei Hou, and **Ziyan Han**. [Keys as features for graph entity matching](https://philo-vanguard.github.io/files/papers/GMKs-ICDE20.pdf). In ICDE (2020). IEEE.  
-<!-- {: reversed="reversed"}  -->
 <br>
 
 
@@ -153,6 +153,7 @@ Services
 - Volunteer: SIGMOD 2023
 <br>
 -->
+
 
 <br><br>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=ls50NVz93mcWW_X1T4un9xvvAWFvOB9qaEtKqyMyrI0'></script>
