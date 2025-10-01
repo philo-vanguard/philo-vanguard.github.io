@@ -50,7 +50,7 @@ News
 
 Research Interests
 =======
-My research primarily focuses on data quality, rule discovery, and data mining. My work has been published in top-tier database conferences, i.e., SIGMOD and ICDE. Below is a concise overview of my past work.
+My research primarily focuses on data quality, rule discovery, and data cleaning, with publications in top-tier database conferences, such as SIGMOD and ICDE. Below is a concise overview of my past work.
 
 * _Data Mining and Data Analysis_
     - I have tackled several challenges in rule discovery, including high computational costs and extensive resource consumption [SIGMOD22], the limitations of non-comprehensive rule
