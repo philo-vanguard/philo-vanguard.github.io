@@ -36,58 +36,6 @@ I was recognized as a Distinguished Graduate of Beihang University (2025) and ha
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
 <h2 style="color: black;">News</h2>
-<ul style="list-style-type:none; padding-left: 0; margin-left: 0; height: 400px; overflow: hidden; overflow-y: scroll;"> 
-  <li>
-    <span class="badge bg-success">
-      <i class="bi bi-calendar-event"></i> May 2024
-    </span> 
-    Our paper <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf">
-      Discovering Top-k Relevant and Diversified Rules
-    </a> was accepted to <b>SIGMOD 2025</b>.
-  </li>
-  <li>
-    <span class="badge bg-success">
-      <i class="bi bi-calendar-event"></i> Oct 2023
-    </span> 
-    Our paper <a href="https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf">
-      Splitting Tuples of Mismatched Entities
-    </a> was accepted to <b>SIGMOD 2024</b>.
-  </li>
-  <li>
-    <span class="badge bg-success">
-      <i class="bi bi-calendar-event"></i> Nov 2022
-    </span> 
-    Our paper <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf">
-      Discovering Top-k Rules using Subjective and Objective Criteria
-    </a> was accepted to <b>SIGMOD 2023</b>.
-  </li>
-  <li>
-    <span class="badge bg-success">
-      <i class="bi bi-calendar-event"></i> Mar 2022
-    </span> 
-    Our paper <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Sampling-SIGMOD22.pdf">
-      Parallel Rule Discovery from Large Datasets by Sampling
-    </a> was accepted to <b>SIGMOD 2022</b>.
-  </li>
-  <li>
-    <span class="badge bg-success">
-      <i class="bi bi-calendar-event"></i> Mar 2021
-    </span> 
-    I joined <a href="https://en.sics.ac.cn">Shenzhen Institute of Computing Science</a> (SICS) as a research intern.
-  </li>
-  <li>
-    <span class="badge bg-success">
-      <i class="bi bi-calendar-event"></i> Dec 2019
-    </span> 
-    Our paper <a href="https://philo-vanguard.github.io/files/papers/GMKs-ICDE20.pdf">
-      Keys as features for graph entity matching
-    </a> was accepted to <b>ICDE 2020</b>.
-  </li>
-</ul>
-
-
-
-<h2 style="color: black;">News</h2>
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
 <li><span class="badge bg-success">May 2024</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf">Discovering Top-k Relevant and Diversified Rules</a> was accepted to <b>SIGMOD 2025</b>. </li>
 <li><span class="badge bg-success">Oct 2023</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf">Splitting Tuples of Mismatched Entities</a> was accepted to <b>SIGMOD 2024</b>. </li>
@@ -96,6 +44,12 @@ I was recognized as a Distinguished Graduate of Beihang University (2025) and ha
 <li><span class="badge bg-success">Mar 2021</span> I joined <a href="https://en.sics.ac.cn">Shenzhen Institute of Computing Science</a> (SICS) as a research intern. </li>
 <li><span class="badge bg-success">Dec 2019</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/GMKs-ICDE20.pdf">Keys as features for graph entity matching</a> was accepted to <b>ICDE 2020</b>. </li>
 </ul>
+
+
+<br><br>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=ls50NVz93mcWW_X1T4un9xvvAWFvOB9qaEtKqyMyrI0'></script>
+
+
 
 
 
@@ -223,6 +177,3 @@ Services
 <br>
 -->
 
-
-<br><br>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=ls50NVz93mcWW_X1T4un9xvvAWFvOB9qaEtKqyMyrI0'></script>
