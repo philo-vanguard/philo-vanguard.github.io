@@ -15,26 +15,6 @@ redirect_from:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
 <style>
-  /* h2, h3 {
-    margin-top: 2rem;  /* 控制标题与前面模块的距离 */
-    margin-bottom: 1rem;
-  } */
-  h2 {
-    font-size: 1.75rem;   /* 大模块标题 */
-    margin-top: 3rem;
-    margin-bottom: 1rem;
-    border-bottom: 2px solid #eee;
-    padding-bottom: 0.3rem;
-  }
-  h3 {
-    font-size: 1.25rem;   /* 子标题 */
-    margin-top: 1.5rem;
-    margin-bottom: 0.75rem;
-    color: #333;
-  }
-  p, ul {
-    margin-bottom: 1rem;
-  }
   .badge-date {
     display: inline-block;
     min-width: 90px;   /* news的绿色图标固定宽度，保证对齐 */
@@ -44,18 +24,17 @@ redirect_from:
 
 
 
-<h2>About</h2>
+## About
 I am Ziyan Han, currently a Visiting Scholar at Shenzhen University. 
 I received my Ph.D. at [Beihang University](https://ev.buaa.edu.cn/) (BUAA), under the supervision of [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/) and [Dr. Yaoshu Wang](https://dblp.org/pid/131/4193.html).
 Before that, I received the B.E. degree at [Xidian University](https://en.xidian.edu.cn/) (XDU).
 My research interests include data management, data quality, data mining, data cleaning, rule discovery, and the intersection of DB and AI.
 
 I was recognized as a Distinguished Graduate of Beihang University (2025) and have been awarded the SIGMOD Student Travel Grant three times (2023–2025).
+<br>
 
 
-
-<h2>News</h2>
-<!-- <h2 style="color: black;">News</h2> -->
+## News
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
 <li><span class="badge bg-success">May 2024</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf">Discovering Top-k Relevant and Diversified Rules</a> was accepted to <b>SIGMOD 2025</b>. </li>
 <li><span class="badge bg-success">Oct 2023</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf">Splitting Tuples of Mismatched Entities</a> was accepted to <b>SIGMOD 2024</b>. </li>
@@ -64,22 +43,22 @@ I was recognized as a Distinguished Graduate of Beihang University (2025) and ha
 <li><span class="badge bg-success">Mar 2021</span> I joined <a href="https://en.sics.ac.cn">Shenzhen Institute of Computing Science</a> (SICS) as a research intern. </li>
 <li><span class="badge bg-success">Dec 2019</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/GMKs-ICDE20.pdf">Keys as features for graph entity matching</a> was accepted to <b>ICDE 2020</b>. </li>
 </ul>
+<br>
 
 
 ## Research Interests
-<h2>Research Interests</h2>
 My research primarily focuses on data quality, rule discovery, and data cleaning, with publications in top-tier database conferences, such as SIGMOD and ICDE. Below is a concise overview of my past work.
 
 ### Data Mining and Data Analysis
-<h3>Data Mining and Data Analysis</h3>
 I have tackled several challenges in rule discovery, including high computational costs and extensive resource consumption [SIGMOD22], the limitations of non-comprehensive rule
 evaluation metrics that lack subjective criteria [SIGMOD23], and redundancy within mined rule sets [SIGMOD25].
 
-<h3>Data Quality and Data Cleaning</h3>
+### Data Quality and Data Cleaning
 I have developed methods for resolving conflicts within tuples of mismatched entities [SIGMOD24], and for graph entity resolution using graph keys [ICDE20].
 
-<h3>Logic Deduction combined with Machine Learning Models</h3>
+### Logic Deduction combined with Machine Learning Models
 I have integrated machine learning techniques with logic rules to enhance data quality. Specifically, I utilize machine learning techniques to accelerate the rule discovery process [SIGMOD22, SIGMOD23, SIGMOD25]. Additionally, rules discovered can be further applied to improve data quality, such as entity resolution, conflict resolution, and tuple splitting [SIGMOD24, ICDE20].  
+<br>
 
 
 <br><br>
