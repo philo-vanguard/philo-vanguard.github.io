@@ -15,12 +15,30 @@ redirect_from:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
 <style>
-  h2, h3 {
+  /* h2, h3 {
     margin-top: 2rem;  /* 控制标题与前面模块的距离 */
     margin-bottom: 1rem;
+  } */
+  h2 {
+    font-size: 1.75rem;   /* 大模块标题 */
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 0.3rem;
+  }
+  h3 {
+    font-size: 1.25rem;   /* 子标题 */
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: #333;
   }
   p, ul {
     margin-bottom: 1rem;
+  }
+  .badge-date {
+    display: inline-block;
+    min-width: 90px;   /* news的绿色图标固定宽度，保证对齐 */
+    text-align: center;
   }
 </style>
 
