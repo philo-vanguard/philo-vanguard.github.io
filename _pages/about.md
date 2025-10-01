@@ -151,7 +151,7 @@ evaluation metrics that lack subjective criteria [SIGMOD23], and redundancy with
 * _Data Management and Data Quality_
     - I have developed methods for resolving conflicts within tuples of mismatched entities [SIGMOD24], and for graph entity resolution using graph keys [ICDE20].
 
-* _Logic Deduction combined with Machine Learning Models_
+* _DB combined with AI_
     - I have integrated machine learning techniques with logic rules to enhance data quality. Specifically, I utilize machine learning techniques to accelerate the rule discovery process [SIGMOD22, SIGMOD23, SIGMOD25]. Additionally, rules discovered can be further applied to improve data quality, such as entity resolution, conflict resolution, and tuple splitting [SIGMOD24, ICDE20].  
 <br>
 
