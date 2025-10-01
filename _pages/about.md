@@ -23,7 +23,7 @@ Before that, I received the B.E. degree at [Xidian University](https://en.xidian
 My research interests include data management, data quality, data mining, data cleaning, rule discovery, and the intersection of DB and AI.
 
 I was recognized as a Distinguished Graduate of Beihang University (2025) and have been awarded the SIGMOD Student Travel Grant three times (2023–2025).
-<br>
+<br><br>
 
 
 ## News
@@ -40,8 +40,7 @@ I was recognized as a Distinguished Graduate of Beihang University (2025) and ha
 My research primarily focuses on data quality, rule discovery, and data cleaning, with publications in top-tier database conferences, such as SIGMOD and ICDE. Below is a concise overview of my past work.
 
 #### Data Mining and Data Analysis
-I have tackled several challenges in rule discovery, including high computational costs and extensive resource consumption [SIGMOD22], the limitations of non-comprehensive rule
-evaluation metrics that lack subjective criteria [SIGMOD23], and redundancy within mined rule sets [SIGMOD25].
+I have tackled several challenges in rule discovery, including high computational costs and extensive resource consumption [SIGMOD22], the limitations of non-comprehensive rule evaluation metrics that lack subjective criteria [SIGMOD23], and redundancy within mined rule sets [SIGMOD25].
 
 #### Data Quality and Data Cleaning
 I have developed methods for resolving conflicts within tuples of mismatched entities [SIGMOD24], and for graph entity resolution using graph keys [ICDE20].
