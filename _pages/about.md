@@ -7,6 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    :root {
+      font-size: 16px; /* 默认16px，改为18px（所有rem单位会按比例缩放） */
+    }
+</style>
+
+
 About
 =======
 I am Ziyan Han, currently a Visiting Scholar at Shenzhen University. 
