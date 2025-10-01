@@ -35,20 +35,18 @@ I was recognized as a Distinguished Graduate of Beihang University (2025) and ha
 <li><span class="badge bg-success">Mar 2021</span> I joined <a href="https://en.sics.ac.cn">Shenzhen Institute of Computing Science</a> (SICS) as a research intern. </li>
 <li><span class="badge bg-success">Dec 2019</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/GMKs-ICDE20.pdf">Keys as features for graph entity matching</a> was accepted to <b>ICDE 2020</b>. </li>
 </ul>
-<br>
-
 
 ## Research Interests
 My research primarily focuses on data quality, rule discovery, and data cleaning, with publications in top-tier database conferences, such as SIGMOD and ICDE. Below is a concise overview of my past work.
 
-### Data Mining and Data Analysis
+#### Data Mining and Data Analysis
 I have tackled several challenges in rule discovery, including high computational costs and extensive resource consumption [SIGMOD22], the limitations of non-comprehensive rule
 evaluation metrics that lack subjective criteria [SIGMOD23], and redundancy within mined rule sets [SIGMOD25].
 
-### Data Quality and Data Cleaning
+#### Data Quality and Data Cleaning
 I have developed methods for resolving conflicts within tuples of mismatched entities [SIGMOD24], and for graph entity resolution using graph keys [ICDE20].
 
-### Logic Deduction combined with Machine Learning Models
+#### Logic Deduction combined with Machine Learning Models
 I have integrated machine learning techniques with logic rules to enhance data quality. Specifically, I utilize machine learning techniques to accelerate the rule discovery process [SIGMOD22, SIGMOD23, SIGMOD25]. Additionally, rules discovered can be further applied to improve data quality, such as entity resolution, conflict resolution, and tuple splitting [SIGMOD24, ICDE20].  
 <br>
 
