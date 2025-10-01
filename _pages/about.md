@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+About
 =======
 I am Ziyan Han, currently a Visiting Scholar at Shenzhen University. 
 I received my Ph.D. at Beihang University (BUAA), advised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/) and [Dr. Yaoshu Wang](https://dblp.org/pid/131/4193.html).
@@ -16,6 +16,16 @@ My research interests include data management, data quality, data mining, data c
 
 I was recognized as a Distinguished Graduate of Beihang University (2025) and have been awarded the SIGMOD Student Travel Grant three times (2023–2025).
 <br>
+
+
+<h2 style="color: black;">News</h2>
+<ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
+<li><span class="badge bg-success">NOV 2024</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf">Discovering Top-k Relevant and Diversified Rules</a> was accepted to <b>SIGMOD 2025</b>. </li>
+<li><span class="badge bg-success">NOV 2024</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf">Splitting Tuples of Mismatched Entities</a> was accepted to <b>SIGMOD 2024</b>. </li>
+<li><span class="badge bg-success">NOV 2024</span> Our paper  [Discovering Top-k Rules using Subjective and Objective Criteria](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf)</a> was accepted to <b>SIGMOD 2023</b>. </li>
+<li><span class="badge bg-success">NOV 2024</span> Our paper  <a href="">Parallel Rule Discovery from Large Datasets by Sampling</a> was accepted to <b>SIGMOD 2022</b>. </li>
+<li><span class="badge bg-success">NOV 2024</span> Our paper  <a href="">XX</a> was accepted to <b>ICDE 2020</b>. </li>
+</ul>
 
 
 Publications
