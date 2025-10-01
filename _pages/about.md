@@ -12,7 +12,7 @@ redirect_from:
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
     :root {
-      font-size: 16px; /* 默认16px，改为18px（所有rem单位会按比例缩放） */
+      font-size: 18px; /* 默认16px，改为18px（所有rem单位会按比例缩放） */
     }
 </style>
 
