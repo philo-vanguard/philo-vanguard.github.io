@@ -14,21 +14,29 @@ redirect_from:
 <!-- 引入 Bootstrap Icons -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
+<style>
+  h2, h3 {
+    margin-top: 2rem;  /* 控制标题与前面模块的距离 */
+    margin-bottom: 1rem;
+  }
+  p, ul {
+    margin-bottom: 1rem;
+  }
+</style>
 
 
-About
-=======
+
+<h2>About</h2>
 I am Ziyan Han, currently a Visiting Scholar at Shenzhen University. 
 I received my Ph.D. at [Beihang University](https://ev.buaa.edu.cn/) (BUAA), under the supervision of [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/) and [Dr. Yaoshu Wang](https://dblp.org/pid/131/4193.html).
 Before that, I received the B.E. degree at [Xidian University](https://en.xidian.edu.cn/) (XDU).
 My research interests include data management, data quality, data mining, data cleaning, rule discovery, and the intersection of DB and AI.
 
 I was recognized as a Distinguished Graduate of Beihang University (2025) and have been awarded the SIGMOD Student Travel Grant three times (2023–2025).
-<br>
 
 
-News
-=======
+
+<h2>News</h2>
 <!-- <h2 style="color: black;">News</h2> -->
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
 <li><span class="badge bg-success">May 2024</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf">Discovering Top-k Relevant and Diversified Rules</a> was accepted to <b>SIGMOD 2025</b>. </li>
