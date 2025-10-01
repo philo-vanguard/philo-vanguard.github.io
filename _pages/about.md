@@ -10,8 +10,8 @@ redirect_from:
 About
 =======
 I am Ziyan Han, currently a Visiting Scholar at Shenzhen University. 
-I received my Ph.D. at Beihang University (BUAA), advised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/) and [Dr. Yaoshu Wang](https://dblp.org/pid/131/4193.html).
-Before that, I received the B.E. degree at Xidian University (XDU).
+I received my Ph.D. at [Beihang University](https://ev.buaa.edu.cn/) (BUAA), advised by [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/) and [Dr. Yaoshu Wang](https://dblp.org/pid/131/4193.html).
+Before that, I received the B.E. degree at [Xidian University](https://en.xidian.edu.cn/) (XDU).
 My research interests include data management, data quality, data mining, data cleaning, rule discovery, and the intersection of DB and AI.
 
 I was recognized as a Distinguished Graduate of Beihang University (2025) and have been awarded the SIGMOD Student Travel Grant three times (2023–2025).
