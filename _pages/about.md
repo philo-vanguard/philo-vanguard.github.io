@@ -48,8 +48,7 @@ I was recognized as a Distinguished Graduate of Beihang University (2025) and ha
 </ul>
 
 
-Research Interests
-=======
+<h2>Research Interests</h2>
 My research primarily focuses on data quality, rule discovery, and data cleaning, with publications in top-tier database conferences, such as SIGMOD and ICDE. Below is a concise overview of my past work.
 
 * _Data Mining and Data Analysis_
@@ -61,7 +60,6 @@ evaluation metrics that lack subjective criteria [SIGMOD23], and redundancy with
 
 * _Logic Deduction combined with Machine Learning Models_
     - I have integrated machine learning techniques with logic rules to enhance data quality. Specifically, I utilize machine learning techniques to accelerate the rule discovery process [SIGMOD22, SIGMOD23, SIGMOD25]. Additionally, rules discovered can be further applied to improve data quality, such as entity resolution, conflict resolution, and tuple splitting [SIGMOD24, ICDE20].  
-<br>
 
 
 <br><br>
