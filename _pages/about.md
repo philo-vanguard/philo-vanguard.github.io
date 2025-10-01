@@ -14,14 +14,6 @@ redirect_from:
 <!-- 引入 Bootstrap Icons -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
-<style>
-  .badge-date {
-    display: inline-block;
-    min-width: 90px;   /* news的绿色图标固定宽度，保证对齐 */
-    text-align: center;
-  }
-</style>
-
 
 
 ## About
@@ -38,7 +30,7 @@ I was recognized as a Distinguished Graduate of Beihang University (2025) and ha
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
 <li><span class="badge bg-success">May 2024</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf">Discovering Top-k Relevant and Diversified Rules</a> was accepted to <b>SIGMOD 2025</b>. </li>
 <li><span class="badge bg-success">Oct 2023</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf">Splitting Tuples of Mismatched Entities</a> was accepted to <b>SIGMOD 2024</b>. </li>
-<li><span class="badge bg-success">NOV 2022</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf">Discovering Top-k Rules using Subjective and Objective Criteria</a> was accepted to <b>SIGMOD 2023</b>. </li>
+<li><span class="badge bg-success">Nov 2022</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf">Discovering Top-k Rules using Subjective and Objective Criteria</a> was accepted to <b>SIGMOD 2023</b>. </li>
 <li><span class="badge bg-success">Mar 2022</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Sampling-SIGMOD22.pdf">Parallel Rule Discovery from Large Datasets by Sampling</a> was accepted to <b>SIGMOD 2022</b>. </li>
 <li><span class="badge bg-success">Mar 2021</span> I joined <a href="https://en.sics.ac.cn">Shenzhen Institute of Computing Science</a> (SICS) as a research intern. </li>
 <li><span class="badge bg-success">Dec 2019</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/GMKs-ICDE20.pdf">Keys as features for graph entity matching</a> was accepted to <b>ICDE 2020</b>. </li>
