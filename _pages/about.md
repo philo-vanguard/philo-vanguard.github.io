@@ -57,18 +57,18 @@ My research interests include data quality, data management, rule discovery, and
 
 I am also open to exploring other research directions and enthusiastic about investigating new areas of interest.
 
-<!-- 
+
 <font color=red>
   I am set to graduate in Spring 2025 and am currently seeking a <strong>postdoctoral</strong> position. If you are interested, please feel free to contact me.  
 </font>
 <br>
--->
 
-<!-- 
+
+
 <font color=red>
   Currently Job Searching (actively seeking new opportunities).  
 </font>
-<br> -->
+<br>
 
 
 Publications
