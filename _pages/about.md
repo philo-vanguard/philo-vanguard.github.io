@@ -66,9 +66,11 @@ I was recognized as a Distinguished Graduate of Beihang University (2025) and ha
 </ul>
 
 
+## Research Interests
 <h2>Research Interests</h2>
 My research primarily focuses on data quality, rule discovery, and data cleaning, with publications in top-tier database conferences, such as SIGMOD and ICDE. Below is a concise overview of my past work.
 
+### Data Mining and Data Analysis
 <h3>Data Mining and Data Analysis</h3>
 I have tackled several challenges in rule discovery, including high computational costs and extensive resource consumption [SIGMOD22], the limitations of non-comprehensive rule
 evaluation metrics that lack subjective criteria [SIGMOD23], and redundancy within mined rule sets [SIGMOD25].
