@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ziyan Han"
-description              : &description "a PhD candidate in Computer Science at Beihang University"
+description              : &description "Ph.D. in Computer Science at Beihang University"
 URL                      : "https://philo-vanguard.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "philo-vanguard/philo-vanguard.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Ziyan Han (韩紫燕)"
   pronouns         : # example: "she/her"  
   bio              : "(Wade-Giles: Tzu-yen Han)"
-  location         : "Beijing, China"
-  employer         : "Beihang University"
+  location         : "Shenzhen, China"
+  employer         : "Shenzhen University"
   uri              : # URL
-  email            : "hanzy@buaa.edu.cn" 
+  email            : "hanziyan123@gmail.com" 
   # email            : "hanziyan123@gmail.com" 
   
   # Academic websites
@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-6614-3755"
   semantic         : # URL
   pubmed           : # ""
-  researchgate     : "https://www.researchgate.net/profile/Ziyan-Han"
+  researchgate     : # "https://www.researchgate.net/profile/Ziyan-Han"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
