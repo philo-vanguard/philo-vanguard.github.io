@@ -27,7 +27,7 @@ I was recognized as a Distinguished Graduate of Beihang University (2025) and ha
 
 
 ## News
-<ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
+<ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: auto;"> 
 <li><span class="badge bg-success">May 2024</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf">Discovering Top-k Relevant and Diversified Rules</a> was accepted to <b>SIGMOD 2025</b>. </li>
 <li><span class="badge bg-success">Oct 2023</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf">Splitting Tuples of Mismatched Entities</a> was accepted to <b>SIGMOD 2024</b>. </li>
 <li><span class="badge bg-success">Nov 2022</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf">Discovering Top-k Rules using Subjective and Objective Criteria</a> was accepted to <b>SIGMOD 2023</b>. </li>
