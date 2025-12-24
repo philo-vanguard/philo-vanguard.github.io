@@ -22,12 +22,13 @@ I received my Ph.D. at [Beihang University](https://ev.buaa.edu.cn/) (BUAA), und
 Before that, I received the B.E. degree at [Xidian University](https://en.xidian.edu.cn/) (XDU).
 My research interests include data management, data quality, data mining, data cleaning, rule discovery, and the intersection of DB and AI.
 
-I was recognized as a Distinguished Graduate of Beihang University (2025) and have been awarded the SIGMOD Student Travel Grant three times (2023–2025).
+I was recognized as an Outstanding Graduate of Beihang University (2025) and have been awarded the SIGMOD Student Travel Grant three times (2023–2025).
 <br><br>
 
 
 ## News
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: auto;"> 
+<li><span class="badge bg-success">Jun 2025</span> Received <b>Outstanding Graduate Award</b>, Beihang University. </li>
 <li><span class="badge bg-success">May 2025</span> Received <b>SIGMOD 2025 Student Travel Grant</b>. </li>
 <li><span class="badge bg-success">May 2024</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf">Discovering Top-k Relevant and Diversified Rules</a> was accepted to <b>SIGMOD 2025</b>. </li>
 <li><span class="badge bg-success">Apr 2024</span> Received <b>SIGMOD 2024 Student Scholarship</b>. </li>
