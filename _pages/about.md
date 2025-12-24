@@ -30,9 +30,9 @@ I was recognized as a Distinguished Graduate of Beihang University (2025) and ha
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: auto;"> 
 <li><span class="badge bg-success">May 2025</span> Received SIGMOD 2025 Student Travel Grant. </li>
 <li><span class="badge bg-success">May 2024</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf">Discovering Top-k Relevant and Diversified Rules</a> was accepted to <b>SIGMOD 2025</b>. </li>
-<li><span class="badge bg-success">Ari 2024</span> Received SIGMOD 2024 Student Scholarship. </li>
+<li><span class="badge bg-success">Apr 2024</span> Received SIGMOD 2024 Student Scholarship. </li>
 <li><span class="badge bg-success">Oct 2023</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf">Splitting Tuples of Mismatched Entities</a> was accepted to <b>SIGMOD 2024</b>. </li>
-<li><span class="badge bg-success">Ari 2023</span> Received SIGMOD 2023 Student Travel Award. </li>
+<li><span class="badge bg-success">Apr 2023</span> Received SIGMOD 2023 Student Travel Award. </li>
 <li><span class="badge bg-success">Nov 2022</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf">Discovering Top-k Rules using Subjective and Objective Criteria</a> was accepted to <b>SIGMOD 2023</b>. </li>
 <li><span class="badge bg-success">Mar 2022</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Sampling-SIGMOD22.pdf">Parallel Rule Discovery from Large Datasets by Sampling</a> was accepted to <b>SIGMOD 2022</b>. </li>
 <li><span class="badge bg-success">Mar 2021</span> I joined <a href="https://en.sics.ac.cn">Shenzhen Institute of Computing Science</a> (SICS) as a research intern. </li>
