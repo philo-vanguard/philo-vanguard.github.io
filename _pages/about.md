@@ -54,6 +54,12 @@ I have integrated machine learning techniques with logic rules to enhance data q
 <br>
 
 
+## Services
+- External Reviewer: AAAI 2023, APWEB 2023, TKDE 2023, ICDE 2024, ICDE 2025, APWEB 2025, WAIM 2025, DASFAA 2026
+- Volunteer: SIGMOD 2023
+<br>
+
+
 <br><br>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=ls50NVz93mcWW_X1T4un9xvvAWFvOB9qaEtKqyMyrI0'></script>
 
