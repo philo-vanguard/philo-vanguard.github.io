@@ -27,7 +27,14 @@ I was recognized as an Outstanding Graduate of Beihang University (2025) and hav
 
 
 ## News
-<ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: auto;"> 
+<style>
+  .news-list a,
+  .news-list a:hover,
+  .news-list a:focus {
+    text-decoration: none;
+  }
+</style>
+<ul class="news-list" style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: auto;"> 
 <li><span class="badge bg-success">Jan 2026</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/BClean-TKDE26.pdf">BClean+: A Bayesian Data Cleaning System With Automated Prior Generation</a> was accepted to <b>TKDE 2026</b>. </li>
 <li><span class="badge bg-success">Jan 2026</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/AutoPattern-DASFAA26.pdf">Automatic String Data Validation with Pattern Discovery</a> was accepted to <b>DASFAA 2026</b>. </li>
 <li><span class="badge bg-success">Dec 2025</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Fast-Top-k-Diversified-Rule-Discovery-TKDE26.pdf">Fast Diversified Top-k Rule Discovery via User-Guided Embeddings</a> was accepted to <b>TKDE 2026</b>. </li>
@@ -45,16 +52,19 @@ I was recognized as an Outstanding Graduate of Beihang University (2025) and hav
 </ul>
 
 ## Research Interests
-My research primarily focuses on data quality, rule discovery, and data cleaning, with publications in top-tier database conferences, such as SIGMOD and ICDE. Below is a concise overview of my past work.
+My research primarily focuses on data quality, rule discovery, and data cleaning, with publications in top-tier database conferences and Journals such as SIGMOD, ICDE, and TKDE. 
+Below is a concise overview of my past work.
+
 
 #### Data Mining and Data Analysis
-I have tackled several challenges in rule discovery, including high computational costs and extensive resource consumption [SIGMOD22], the limitations of non-comprehensive rule evaluation metrics that lack subjective criteria [SIGMOD23], and redundancy within mined rule sets [SIGMOD25].
+I have tackled several challenges in rule discovery, including high computational costs and extensive resource consumption [SIGMOD'22], the limitations of non-comprehensive rule evaluation metrics that lack subjective criteria [SIGMOD'23], redundancy within mined rule sets [SIGMOD'25], and efficient diversified rule selection and discovery via user-guided embedding-based methods [TKDE'26].
 
 #### Data Quality and Data Cleaning
-I have developed methods for resolving conflicts within tuples of mismatched entities [SIGMOD24], and for graph entity resolution using graph keys [ICDE20].
+I have developed methods for resolving conflicts within tuples of mismatched entities [SIGMOD'24], graph entity resolution using graph keys [ICDE'20], Bayesian data cleaning with automated prior generation [TKDE'26, ICDE'26], and automatic string data validation through pattern discovery [DASFAA'26].
+
 
 #### Logic Deduction combined with Machine Learning Models
-I have integrated machine learning techniques with logic rules to enhance data quality. Specifically, I utilize machine learning techniques to accelerate the rule discovery process [SIGMOD22, SIGMOD23, SIGMOD25]. Additionally, rules discovered can be further applied to improve data quality, such as entity resolution, conflict resolution, and tuple splitting [SIGMOD24, ICDE20].  
+I have integrated machine learning techniques with logic rules to enhance data quality. Specifically, I utilize machine learning techniques to accelerate the rule discovery process [SIGMOD'22, SIGMOD'23, SIGMOD'25, TKDE'26], and employ Bayesian models for automated data cleaning [ICDE'26]. Additionally, rules discovered can be further applied to improve data quality, such as entity resolution, conflict resolution, and tuple splitting [SIGMOD'24, ICDE'20].  
 <br>
 
 
@@ -194,4 +204,3 @@ Services
 - Volunteer: SIGMOD 2023
 <br>
 -->
-
