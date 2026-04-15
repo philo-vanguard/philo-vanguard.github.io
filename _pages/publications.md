@@ -73,13 +73,13 @@ author_profile: true
 <!-- [[Video]](https://drive.google.com/file/d/1NMIoe59nng5TQZqguwK-TyLvvJLGrEGM/view?usp=sharing) -->
 
 
-## PhD Dissertation
+<!-- ## PhD Dissertation
 **Research on Key Technologies for Data Quality Assurance
 Based on Entity Enhancing Rules**
 
 A thesis submitted for the Degree of Doctor of Philosophy to the Beihang Univeristy.
 
-[[Download slides here]](https://drive.google.com/drive/folders/1r0gZZ-i5PXJzRAHtGtcVl_ykyM84UOSB?usp=sharing)
+[[Download slides here]](https://drive.google.com/drive/folders/1r0gZZ-i5PXJzRAHtGtcVl_ykyM84UOSB?usp=sharing) -->
 
 </div>
 
