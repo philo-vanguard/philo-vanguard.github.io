@@ -8,9 +8,13 @@ author_profile: true
 <style>
   .page__content a,
   .page__content a:visited,
-  .page__content a:hover,
   .page__content a:focus {
-    color: #1f96fe;
+    color: #0d6efd !important;
+  }
+
+  .page__content a:hover,
+  .page__content a:active {
+    color: #0a58ca !important;
   }
 </style>
 
@@ -39,25 +43,25 @@ author_profile: true
   [[Paper]](https://philo-vanguard.github.io/files/papers/AutoPattern-DASFAA26.pdf)
 
 ### 2025
-- Wenfei Fan, **Ziyan Han****, Min Xie, and Guangyi Zhang,
+- Wenfei Fan, **Ziyan Han**\*\*, Min Xie, and Guangyi Zhang,
   Discovering Top-k Relevant and Diversified Rules,
   *Proceedings of the ACM on Management of Data (SIGMOD)*, 2025
   [[Paper]](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf) [[Slides]](https://philo-vanguard.github.io/files/slides/Rule-Discovery-Top-k-Diversified-SIGMOD25.pptx) [[Source Code]](https://github.com/philo-vanguard/PTopKDivMiner)
 
 ### 2024
-- Wenfei Fan, **Ziyan Han****, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan,
+- Wenfei Fan, **Ziyan Han**\*\*, Weilong Ren, Ding Wang, Yaoshu Wang, Min Xie, and Mengyi Yan,
   Splitting Tuples of Mismatched Entities,
   *Proceedings of the ACM on Management of Data (SIGMOD)*, 2024
   [[Paper]](https://philo-vanguard.github.io/files/papers/Tuple-Splitting-SIGMOD24.pdf) [[Slides]](https://philo-vanguard.github.io/files/slides/Tuple-Splitting-SIGMOD24.pptx) [[Source Code]](https://github.com/philo-vanguard/Tuple_Splitting)
 
 ### 2023
-- Wenfei Fan, **Ziyan Han****, Yaoshu Wang, and Min Xie**,
+- Wenfei Fan, **Ziyan Han**\*\*, Yaoshu Wang, and Min Xie,
   Discovering Top-k Rules using Subjective and Objective Criteria,
   *Proceedings of the ACM on Management of Data (SIGMOD)*, 2023
   [[Paper]](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-SIGMOD23.pdf) [[Slides]](https://philo-vanguard.github.io/files/slides/Rule-Discovery-Top-k-SIGMOD23.pptx) [[Source Code]](https://github.com/philo-vanguard/PTopk-Miner)
 
 ### 2022
-- Wenfei Fan, **Ziyan Han****, Yaoshu Wang, and Min Xie,
+- Wenfei Fan, **Ziyan Han**\*\*, Yaoshu Wang, and Min Xie,
   Parallel Rule Discovery from Large Datasets by Sampling,
   *Proceedings of the 2022 International Conference on Management of Data (SIGMOD)*, 2022
   [[Paper]](https://philo-vanguard.github.io/files/papers/Rule-Discovery-Sampling-SIGMOD22.pdf) [[Slides]](https://philo-vanguard.github.io/files/slides/Rule-Discovery-Sampling-SIGMOD22.pptx) [[Source Code]](https://github.com/philo-vanguard/PRMiner)
@@ -77,4 +81,3 @@ Based on Entity Enhancing Rules**
 A thesis submitted for the Degree of Doctor of Philosophy to the Beihang Univeristy.
 
 [[Download slides here]](https://drive.google.com/drive/folders/1r0gZZ-i5PXJzRAHtGtcVl_ykyM84UOSB?usp=sharing) -->
-
