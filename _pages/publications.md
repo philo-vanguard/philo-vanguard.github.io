@@ -10,7 +10,7 @@ author_profile: true
   .page__content a:visited,
   .page__content a:hover,
   .page__content a:focus {
-    color: #0a7efb;
+    color: #1f96fe;
   }
 </style>
 
