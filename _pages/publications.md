@@ -6,16 +6,13 @@ author_profile: true
 ---
 
 <style>
-  .publications-page a,
-  .publications-page a:visited,
-  .publications-page a:hover,
-  .publications-page a:focus {
+  .page__content a,
+  .page__content a:visited,
+  .page__content a:hover,
+  .page__content a:focus {
     color: #0a7efb;
-;
   }
 </style>
-
-<div class="publications-page">
 
 ## Conference papers
 `**` indicates that author names are listed in alphabetical order. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=QhrqlcwAAAAJ&hl=en).
@@ -80,6 +77,4 @@ Based on Entity Enhancing Rules**
 A thesis submitted for the Degree of Doctor of Philosophy to the Beihang Univeristy.
 
 [[Download slides here]](https://drive.google.com/drive/folders/1r0gZZ-i5PXJzRAHtGtcVl_ykyM84UOSB?usp=sharing) -->
-
-</div>
 
