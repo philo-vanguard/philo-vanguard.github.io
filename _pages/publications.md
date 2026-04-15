@@ -5,19 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<style>
-  .page__content a,
-  .page__content a:visited,
-  .page__content a:focus {
-    color: #0d6efd !important;
-  }
-
-  .page__content a:hover,
-  .page__content a:active {
-    color: #0a58ca !important;
-  }
-</style>
-
 ## Conference papers
 `**` indicates that author names are listed in alphabetical order. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=QhrqlcwAAAAJ&hl=en).
 
