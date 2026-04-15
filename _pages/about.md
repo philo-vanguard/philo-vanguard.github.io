@@ -28,6 +28,10 @@ I was recognized as an Outstanding Graduate of Beihang University (2025) and hav
 
 ## News
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: auto;"> 
+<li><span class="badge bg-success">Jan 2026</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/BClean-TKDE26.pdf">BClean+: A Bayesian Data Cleaning System With Automated Prior Generation</a> was accepted to <b>TKDE 2026</b>. </li>
+<li><span class="badge bg-success">Jan 2026</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/AutoPattern-DASFAA26.pdf">Automatic String Data Validation with Pattern Discovery</a> was accepted to <b>DASFAA 2026</b>. </li>
+<li><span class="badge bg-success">Dec 2025</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Fast-Top-k-Diversified-Rule-Discovery-TKDE26.pdf">Fast Diversified Top-k Rule Discovery via User-Guided Embeddings</a> was accepted to <b>TKDE 2026</b>. </li>
+<li><span class="badge bg-success">Dec 2025</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/BClean-ICDE26-Demo.pdf">BClean+: A Bayesian Data Cleaning System with Automated Prior Generation</a> was accepted to <b>ICDE Demo 2026</b>. </li>
 <li><span class="badge bg-success">Jun 2025</span> Received <b>Outstanding Graduate Award</b>, Beihang University. </li>
 <li><span class="badge bg-success">May 2025</span> Received <b>SIGMOD 2025 Student Travel Grant</b>. </li>
 <li><span class="badge bg-success">May 2024</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Rule-Discovery-Top-k-Diversified-SIGMOD25.pdf">Discovering Top-k Relevant and Diversified Rules</a> was accepted to <b>SIGMOD 2025</b>. </li>
