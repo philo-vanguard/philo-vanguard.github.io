@@ -9,22 +9,22 @@ author_profile: true
 `**` indicates that author names are listed in alphabetical order. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=QhrqlcwAAAAJ&hl=en).
 
 ### 2026
-- **Ziyan Han**, Jing Zhu, Jinbin Huang, Sifan Huang, Yaoshu Wang, Rui Mao*, and Jianbin Qin*,
+- **Ziyan Han**, Jing Zhu, Jinbin Huang, Sifan Huang, Yaoshu Wang, Rui Mao\*, and Jianbin Qin\*,
   BClean+: A Bayesian Data Cleaning System with Automated Prior Generation,
   *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2026
   [[Paper]](https://philo-vanguard.github.io/files/papers/BClean-TKDE26.pdf) [[Source Code]](https://github.com/philo-vanguard/BCleanplus)
 
-- **Ziyan Han**, Wanjia Chen, Yunpeng Han, Rui Mao, and Jianbin Qin*,
+- **Ziyan Han**, Wanjia Chen, Yunpeng Han, Rui Mao, and Jianbin Qin\*,
   Fast Diversified Top-k Rule Discovery via User-Guided Embeddings,
   *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2026
   [[Paper]](https://philo-vanguard.github.io/files/papers/Fast-Top-k-Diversified-Rule-Discovery-TKDE26.pdf) [[Source Code]](https://github.com/philo-vanguard/PTopkDivFinder)
 
-- **Ziyan Han**, Jing Zhu, Jinbin Huang, Rui Mao*, and Jianbin Qin*,
+- **Ziyan Han**, Jing Zhu, Jinbin Huang, Rui Mao\*, and Jianbin Qin\*,
   BClean+: A Bayesian Data Cleaning System with Automated Prior Generation,
   *IEEE 42nd International Conference on Data Engineering, Demo Track (ICDE Demo)*, 2026
   [[Paper]](https://philo-vanguard.github.io/files/papers/BClean-ICDE26-Demo.pdf) [[Video]](https://youtu.be/oSh5OQXr9zE)
 
-- **Ziyan Han**, Xinwei Lin, Peng Di, Chuan Xiao, Makoto Onizuka, Jiuzhang Liu, Rui Mao*, and Jianbin Qin*,
+- **Ziyan Han**, Xinwei Lin, Peng Di, Chuan Xiao, Makoto Onizuka, Jiuzhang Liu, Rui Mao\*, and Jianbin Qin\*,
   Automatic String Data Validation with Pattern Discovery,
   *Database Systems for Advanced Applications (DASFAA)*, 2026
   [[Paper]](https://philo-vanguard.github.io/files/papers/AutoPattern-DASFAA26.pdf)
