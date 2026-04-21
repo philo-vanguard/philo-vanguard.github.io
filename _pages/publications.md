@@ -27,7 +27,7 @@ author_profile: true
 - **Ziyan Han**, Xinwei Lin, Peng Di, Chuan Xiao, Makoto Onizuka, Jiuzhang Liu, Rui Mao\*, and Jianbin Qin\*,
   Automatic String Data Validation with Pattern Discovery,
   *Database Systems for Advanced Applications (DASFAA)*, 2026
-  [[Paper]](https://philo-vanguard.github.io/files/papers/AutoPattern-DASFAA26.pdf)
+  [[Paper]](https://philo-vanguard.github.io/files/papers/AutoPattern-DASFAA26.pdf) [[Slides]](https://philo-vanguard.github.io/files/slides/AutoPattern-DASFAA26-slides.pptx)
 
 ### 2025
 - Wenfei Fan, **Ziyan Han**\*\*, Min Xie, and Guangyi Zhang,
