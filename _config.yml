@@ -24,7 +24,7 @@ author:
   avatar           : "photo-2.jpg"
   name             : "Ziyan Han 韩紫燕"
   pronouns         : # example: "she/her"  
-  bio              : "(Wade-Giles: Tzu-yen Han)"
+  bio              : "Assistant Professor, Shenzhen University" # "(Wade-Giles: Tzu-yen Han)"
   location         : "Shenzhen, China"
   employer         : "Shenzhen University"
   uri              : # URL
