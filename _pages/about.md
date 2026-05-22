@@ -21,8 +21,6 @@ I am Ziyan Han, currently an Assistant Professor at Shenzhen University.
 I received my Ph.D. at [Beihang University](https://ev.buaa.edu.cn/) (BUAA), under the supervision of [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/).
 Before that, I received the B.E. degree at [Xidian University](https://en.xidian.edu.cn/) (XDU).
 My research interests include data management, data quality, data mining, data cleaning, rule discovery, and the intersection of DB and AI.
-
-<!--I was recognized as an Outstanding Graduate of Beihang University (2025) and have been awarded the SIGMOD Student Travel Grant three times (2023–2025).-->
 <br><br>
 
 
