@@ -20,7 +20,7 @@ author_profile: true
   [[Paper]](https://philo-vanguard.github.io/files/papers/Fast-Top-k-Diversified-Rule-Discovery-TKDE26.pdf) [[Source Code]](https://github.com/philo-vanguard/PTopkDivFinder)
 
 - **Ziyan Han**, Jing Zhu, Jinbin Huang, Rui Mao\*, and Jianbin Qin\*,
-  BClean+: A Bayesian Data Cleaning System with Automated Prior Generation,
+  BClean+: An Interactive System for Automated Bayesian Data Cleaning,
   *IEEE 42nd International Conference on Data Engineering, Demo Track (ICDE Demo)*, 2026
   [[Paper]](https://philo-vanguard.github.io/files/papers/BClean-ICDE26-Demo.pdf) [[Video]](https://youtu.be/oSh5OQXr9zE)
 
