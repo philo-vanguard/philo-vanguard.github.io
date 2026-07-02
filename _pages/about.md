@@ -67,7 +67,7 @@ I have integrated machine learning techniques with logic rules to enhance data q
 
 
 ## Services
-- External Reviewer: AAAI 2023, APWEB 2023, TKDE 2023, ICDE 2024, ICDE 2025, APWEB 2025, WAIM 2025, DASFAA 2026
+- External Reviewer: AAAI 2023, APWEB 2023, TKDE 2023, ICDE 2024, ICDE 2025, APWEB 2025, WAIM 2025, DASFAA 2026, NeurIPS 2026
 - Volunteer: SIGMOD 2023
 <br>
 
