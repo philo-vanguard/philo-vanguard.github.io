@@ -74,7 +74,8 @@ I have integrated machine learning techniques with logic rules to enhance data q
 
 
 <br><br>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=ls50NVz93mcWW_X1T4un9xvvAWFvOB9qaEtKqyMyrI0'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=ls50NVz93mcWW_X1T4un9xvvAWFvOB9qaEtKqyMyrI0'></script> -->
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=qJ8mUkLxSVOyLb3Rgj8sQ_syZOdRlHl2vhYP2WYLIcw&cl=ffffff&w=a"></script>
 
 
 
