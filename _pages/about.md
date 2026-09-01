@@ -33,6 +33,7 @@ My research interests include data management, data quality, data mining, data c
   }
 </style>
 <ul class="news-list" style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: auto;"> 
+<li><span class="badge bg-success">Jun 2026</span> I joined <a href="https://en.szu.edu.cn/">Shenzhen University</a> (SICS) as an assistant professor. </li>
 <li><span class="badge bg-success">Jan 2026</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/BClean-TKDE26.pdf">BClean+: A Bayesian Data Cleaning System With Automated Prior Generation</a> was accepted to <b>TKDE 2026</b>. </li>
 <li><span class="badge bg-success">Jan 2026</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/AutoPattern-DASFAA26.pdf">Automatic String Data Validation with Pattern Discovery</a> was accepted to <b>DASFAA 2026</b>. </li>
 <li><span class="badge bg-success">Dec 2025</span> Our paper  <a href="https://philo-vanguard.github.io/files/papers/Fast-Top-k-Diversified-Rule-Discovery-TKDE26.pdf">Fast Diversified Top-k Rule Discovery via User-Guided Embeddings</a> was accepted to <b>TKDE 2026</b>. </li>
